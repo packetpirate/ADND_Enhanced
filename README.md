@@ -11,6 +11,7 @@
 -------------------------------------------------------------------------------
 
 Author: Darin Beaudreau
+
 Version: 0.1.75
 
 AD&D Enhanced is a framework for the Advanced Dungeons & Dragons tabletop
