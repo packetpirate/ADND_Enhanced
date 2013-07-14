@@ -1,0 +1,87 @@
+<table>
+  <columns>
+    <name>Ability Score</name>
+    <name>General Information</name>
+    <name>Magical Attack Adjustment</name>
+  </columns>
+  <row>
+    <column>3</column>
+    <column></column>
+    <column>-3</column>
+  </row>
+  <row>
+    <column>4</column>
+    <column></column>
+    <column>-2</column>
+  </row>
+  <row>
+    <column>5</column>
+    <column>Here or lower, the character can only be a Thief.</column>
+    <column>-1</column>
+  </row>
+  <row>
+    <column>6</column>
+    <column></column>
+    <column>-1</column>
+  </row>
+  <row>
+    <column>7</column>
+    <column></column>
+    <column>-1</column>
+  </row>
+  <row>
+    <column>8</column>
+    <column></column>
+    <column>none</column>
+  </row>
+  <row>
+    <column>9</column>
+    <column>Minimum Wisdom for a Cleric character.</column>
+    <column>none</column>
+  </row>
+  <row>
+    <column>10</column>
+    <column></column>
+    <column>none</column>
+  </row>
+  <row>
+    <column>11</column>
+    <column></column>
+    <column>none</column>
+  </row>
+  <row>
+    <column>12</column>
+    <column>Minimum Wisdom for a Druid character.</column>
+    <column>none</column>
+  </row>
+  <row>
+    <column>13</column>
+    <column>Minimum Wisdom for a Paladin or multi-classed Half-Elven Cleric character.</column>
+    <column>none</column>
+  </row>
+  <row>
+    <column>14</column>
+    <column>Maximum Wisdom for a Half-Orc character.</column>
+    <column>none</column>
+  </row>
+  <row>
+    <column>15</column>
+    <column>Minimum Wisdom for a Monk character.</column>
+    <column>+1</column>
+  </row>
+  <row>
+    <column>16</column>
+    <column></column>
+    <column>+2</column>
+  </row>
+  <row>
+    <column>17</column>
+    <column>Maximum Wisdom for a Halfling character. Minimum Wisdom for use of 6th-level spells.</column>
+    <column>+3</column>
+  </row>
+  <row>
+    <column>18</column>
+    <column>Minimum Wisdom for use of 7th-level spells.</column>
+    <column>+4</column>
+  </row>
+</table>

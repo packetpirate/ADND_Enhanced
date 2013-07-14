@@ -1,0 +1,46 @@
+<table>
+  <columns>
+    <name>Item</name>
+    <name>Price</name>
+  </columns>
+  <row>
+    <column>Barge (or Raft), Small</column>
+    <column>50 g.p.</column>
+  </row>
+  <row>
+    <column>Boat, Small</column>
+    <column>75 g.p.</column>
+  </row>
+  <row>
+    <column>Boat, Long</column>
+    <column>150 g.p.</column>
+  </row>
+  <row>
+    <column>Cart</column>
+    <column>50 g.p.</column>
+  </row>
+  <row>
+    <column>Galley, Large</column>
+    <column>25,000 g.p.</column>
+  </row>
+  <row>
+    <column>Galley, Small</column>
+    <column>10,000 g.p.</column>
+  </row>
+  <row>
+    <column>Ship, Merchant, Large</column>
+    <column>15,000 g.p.</column>
+  </row>
+  <row>
+    <column>Ship, Merchant, Small</column>
+    <column>5,000 g.p.</column>
+  </row>
+  <row>
+    <column>Ship, War</column>
+    <column>20,000 g.p.</column>
+  </row>
+  <row>
+    <column>Wagon</column>
+    <column>150 g.p.</column>
+  </row>
+</table>

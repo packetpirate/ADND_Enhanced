@@ -1,0 +1,18 @@
+<table>
+  <columns>
+    <name>Item</name>
+    <name>Price</name>
+  </columns>
+  <row>
+    <column>Belladonna, Sprig</column>
+    <column>4 s.p.</column>
+  </row>
+  <row>
+    <column>Garlic, Bud</column>
+    <column>5 c.p.</column>
+  </row>
+  <row>
+    <column>Wolvesbane, Sprig</column>
+    <column>10 s.p.</column>
+  </row>
+</table>

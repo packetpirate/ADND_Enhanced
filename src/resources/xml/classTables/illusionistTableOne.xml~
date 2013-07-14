@@ -1,0 +1,149 @@
+<table>
+  <columns>
+    <name>Experience Points</name>
+    <name>Experience Level</name>
+    <name>Accumulated Hit Dice</name>
+    <name>Level Title</name>
+  </columns>
+  <row>
+    <column>0 - 2250</column>
+    <column>1</column>
+    <column>1</column>
+    <column>Prestidigitator</column>
+  </row>
+  <row>
+    <column>0 - 2250</column>
+    <column>2</column>
+    <column>2</column>
+    <column>Minor Trickster</column>
+  </row>
+  <row>
+    <column>0 - 2250</column>
+    <column>3</column>
+    <column>3</column>
+    <column>Trickster</column>
+  </row>
+  <row>
+    <column>0 - 2250</column>
+    <column>4</column>
+    <column>4</column>
+    <column>Master Trickster</column>
+  </row>
+  <row>
+    <column>0 - 2250</column>
+    <column>5</column>
+    <column>5</column>
+    <column>Cabalist</column>
+  </row>
+  <row>
+    <column>0 - 2250</column>
+    <column>6</column>
+    <column>6</column>
+    <column>Visionist</column>
+  </row>
+  <row>
+    <column>0 - 2250</column>
+    <column>7</column>
+    <column>7</column>
+    <column>Phantasmist</column>
+  </row>
+  <row>
+    <column>0 - 2250</column>
+    <column>8</column>
+    <column>8</column>
+    <column>Apparitionist</column>
+  </row>
+  <row>
+    <column>0 - 2250</column>
+    <column>9</column>
+    <column>9</column>
+    <column>Spellbinder</column>
+  </row>
+  <row>
+    <column>0 - 2250</column>
+    <column>10</column>
+    <column>10</column>
+    <column>Illusionist</column>
+  </row>
+  <row>
+    <column>0 - 2250</column>
+    <column>11</column>
+  <row>
+    <column>0 - 2250</column>
+    <column>1</column>
+    <column>1</column>
+    <column>Prestidigitator</column>
+  </row>
+  <row>
+    <column>0 - 2250</column>
+    <column>2</column>
+    <column>2</column>
+    <column>Minor Trickster</column>
+  </row>
+  <row>
+    <column>0 - 2250</column>
+    <column>3</column>
+    <column>3</column>
+    <column>Trickster</column>
+  </row>
+  <row>
+    <column>0 - 2250</column>
+    <column>4</column>
+    <column>4</column>
+    <column>Master Trickster</column>
+  </row>
+  <row>
+    <column>0 - 2250</column>
+    <column>5</column>
+    <column>5</column>
+    <column>Cabalist</column>
+  </row>
+  <row>
+    <column>0 - 2250</column>
+    <column>6</column>
+    <column>6</column>
+    <column>Visionist</column>
+  </row>
+  <row>
+    <column>0 - 2250</column>
+    <column>7</column>
+    <column>7</column>
+    <column>Phantasmist</column>
+  </row>
+  <row>
+    <column>0 - 2250</column>
+    <column>8</column>
+    <column>8</column>
+    <column>Apparitionist</column>
+  </row>
+  <row>
+    <column>0 - 2250</column>
+    <column>9</column>
+    <column>9</column>
+    <column>Spellbinder</column>
+  </row>
+  <row>
+    <column>0 - 2250</column>
+    <column>10</column>
+    <column>10</column>
+    <column>Illusionist</column>
+  </row>
+  <row>
+    <column>0 - 2250</column>
+    <column>11</column>
+    <column>10 + 1</column>
+    <column>Illusionist (11th level)</column>
+  </row>
+  <row>
+    <column>0 - 2250</column>
+    <column>12</column>
+    <column>10 + 2</column>
+    <column>Illusionist (12th level)</column>
+  </row>
+  <row>
+    <column>+220,000</column>
+    <column>13+</column>
+    <column>+1</column>
+    <column>Illusionist (nth level)</column>
+  </row>
+</table>

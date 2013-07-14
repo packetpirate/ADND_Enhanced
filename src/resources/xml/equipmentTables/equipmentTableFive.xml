@@ -1,0 +1,90 @@
+<table>
+  <columns>
+    <name>Item</name>
+    <name>Price</name>
+  </columns>
+  <row>
+    <column>Chicken</column>
+    <column>3 c.p.</column>
+  </row>
+  <row>
+    <column>Cow</column>
+    <column>10 g.p.</column>
+  </row>
+  <row>
+    <column>Dog, Guard</column>
+    <column>25 g.p.</column>
+  </row>
+  <row>
+    <column>Dog, Hunting</column>
+    <column>17 g.p.</column>
+  </row>
+  <row>
+    <column>Donkey</column>
+    <column>8 g.p.</column>
+  </row>
+  <row>
+    <column>Goat</column>
+    <column>1 g.p.</column>
+  </row>
+  <row>
+    <column>Hawk, Large</column>
+    <column>40 g.p.</column>
+  </row>
+  <row>
+    <column>Hawk, Small</column>
+    <column>18 g.p.</column>
+  </row>
+  <row>
+    <column>Horse, Draft</column>
+    <column>30 g.p.</column>
+  </row>
+  <row>
+    <column>Horse, Heavy War</column>
+    <column>300 g.p.</column>
+  </row>
+  <row>
+    <column>Horse, Light War</column>
+    <column>150 g.p.</column>
+  </row>
+  <row>
+    <column>Horse, Medium War</column>
+    <column>225 g.p.</column>
+  </row>
+  <row>
+    <column>Horse, Riding (Light)</column>
+    <column>25 g.p.</column>
+  </row>
+  <row>
+    <column>Mule</column>
+    <column>20 g.p.</column>
+  </row>
+  <row>
+    <column>Ox</column>
+    <column>15 g.p.</column>
+  </row>
+  <row>
+    <column>Pigeon</column>
+    <column>2 c.p.</column>
+  </row>
+  <row>
+    <column>Piglet</column>
+    <column>1 g.p.</column>
+  </row>
+  <row>
+    <column>Pig</column>
+    <column>3 g.p.</column>
+  </row>
+  <row>
+    <column>Pony</column>
+    <column>15 g.p.</column>
+  </row>
+  <row>
+    <column>Sheep</column>
+    <column>2 g.p.</column>
+  </row>
+  <row>
+    <column>Songbird</column>
+    <column>4 c.p.</column>
+  </row>
+</table>

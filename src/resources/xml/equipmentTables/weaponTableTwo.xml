@@ -1,0 +1,359 @@
+<table>
+  <columns>
+    <name>Weapon Type</name>
+    <name>Approx. Weight in Gold Pieces</name>
+    <name>Damage vs. Opponent Size S or M</name>
+    <name>Damage vs. Opponent Size L</name>
+    <name>Notes</name>
+  </columns>
+  <row>
+    <column>Arrow</column>
+    <column>2</column>
+    <column>1-6</column>
+    <column>1-6</column>
+    <column></column>
+  </row>
+  <row>
+    <column>Axe, Battle</column>
+    <column>75</column>
+    <column>1-8</column>
+    <column>1-8</column>
+    <column></column>
+  </row>
+  <row>
+    <column>Axe, Hand or Throwing</column>
+    <column>50</column>
+    <column>1-6</column>
+    <column>1-4</column>
+    <column></column>
+  </row>
+  <row>
+    <column>Bardiche</column>
+    <column>125</column>
+    <column>2-8</column>
+    <column>3-12</column>
+    <column></column>
+  </row>
+  <row>
+    <column>Bec de Corbin</column>
+    <column>100</column>
+    <column>1-8</column>
+    <column>1-6</column>
+    <column></column>
+  </row>
+  <row>
+    <column>Bill-Guisarme</column>
+    <column>150</column>
+    <column>2-8</column>
+    <column>1-10</column>
+    <column>includes Scorpion</column>
+  </row>
+  <row>
+    <column>Bo Stick</column>
+    <column>15</column>
+    <column>1-6</column>
+    <column>1-3</column>
+    <column></column>
+  </row>
+  <row>
+    <column>Club</column>
+    <column>30</column>
+    <column>1-6</column>
+    <column>1-3</column>
+    <column></column>
+  </row>
+  <row>
+    <column>Dagger</column>
+    <column>10</column>
+    <column>1-4</column>
+    <column>1-3</column>
+    <column></column>
+  </row>
+  <row>
+    <column>Dart</column>
+    <column>5</column>
+    <column>1-3</column>
+    <column>1-2</column>
+    <column></column>
+  </row>
+  <row>
+    <column>Fauchard</column>
+    <column>60</column>
+    <column>1-6</column>
+    <column>1-8</column>
+    <column></column>
+  </row>
+  <row>
+    <column>Fauchard-Fork</column>
+    <column>80</column>
+    <column>1-8</column>
+    <column>1-10</column>
+    <column></column>
+  </row>
+  <row>
+    <column>Flail, Footman's</column>
+    <column>150</column>
+    <column>2-7</column>
+    <column>2-8</column>
+    <column></column>
+  </row>
+  <row>
+    <column>Flail, Horseman's</column>
+    <column>35</column>
+    <column>2-5</column>
+    <column>2-5</column>
+    <column></column>
+  </row>
+  <row>
+    <column>Fork, Military</column>
+    <column>75</column>
+    <column>1-8</column>
+    <column>2-8</column>
+    <column></column>
+  </row>
+  <row>
+    <column>Glaive</column>
+    <column>75</column>
+    <column>1-6</column>
+    <column>1-10</column>
+    <column>includes Couteaux de Breche</column>
+  </row>
+  <row>
+    <column>Glaive-Guisarme</column>
+    <column>100</column>
+    <column>2-8</column>
+    <column>2-12</column>
+    <column></column>
+  </row>
+  <row>
+    <column>Guisarme</column>
+    <column>80</column>
+    <column>2-8</column>
+    <column>1-8</column>
+    <column>includes Bill/Bill Hook</column>
+  </row>
+  <row>
+    <column>Guisarme-Voulge</column>
+    <column>150</column>
+    <column>2-8</column>
+    <column>2-8</column>
+    <column>includes Lachaber Axe</column>
+  </row>
+  <row>
+    <column>Halberd</column>
+    <column>175</column>
+    <column>1-10</column>
+    <column>2-12</column>
+    <column></column>
+  </row>
+  <row>
+    <column>Hammer, Lucern</column>
+    <column>150</column>
+    <column>2-8</column>
+    <column>1-6</column>
+    <column></column>
+  </row>
+  <row>
+    <column>Hammer</column>
+    <column>50</column>
+    <column>2-5</column>
+    <column>1-4</column>
+    <column></column>
+  </row>
+  <row>
+    <column>Javelin</column>
+    <column>20</column>
+    <column>1-6</column>
+    <column>1-6</column>
+    <column></column>
+  </row>
+  <row>
+    <column>Jo Stick</column>
+    <column>40</column>
+    <column>1-6</column>
+    <column>1-4</column>
+    <column></column>
+  </row>
+  <row>
+    <column>Lance* (Light Horse)</column>
+    <column>50</column>
+    <column>1-6</column>
+    <column>1-8</column>
+    <column></column>
+  </row>
+  <row>
+    <column>Lance* (Medium Horse)</column>
+    <column>100</column>
+    <column>2-7</column>
+    <column>2-12</column>
+    <column></column>
+  </row>
+  <row>
+    <column>Lance* (Heavy Horse)</column>
+    <column>150</column>
+    <column>3-9</column>
+    <column>3-18</column>
+    <column></column>
+  </row>
+  <row>
+    <column>Mace, Footman's</column>
+    <column>100</column>
+    <column>2-7</column>
+    <column>1-6</column>
+    <column></column>
+  </row>
+  <row>
+    <column>Mace, Horseman's</column>
+    <column>50</column>
+    <column>1-6</column>
+    <column>1-4</column>
+    <column></column>
+  </row>
+  <row>
+    <column>Morning Star</column>
+    <column>125</column>
+    <column>2-8</column>
+    <column>2-7</column>
+    <column>includes Godentag and Holy Water Sprinkler</column>
+  </row>
+  <row>
+    <column>Partisan</column>
+    <column>80</column>
+    <column>1-6</column>
+    <column>2-7</column>
+    <column>includes Bohemian Ear-Spoon</column>
+  </row>
+  <row>
+    <column>Pick, Military, Footman's</column>
+    <column>60</column>
+    <column>2-7</column>
+    <column>2-8</column>
+    <column></column>
+  </row>
+  <row>
+    <column>Pick, Military, Horseman's</column>
+    <column>40</column>
+    <column>2-5</column>
+    <column>1-4</column>
+    <column></column>
+  </row>
+  <row>
+    <column>Pike, Awl</column>
+    <column>80</column>
+    <column>1-6</column>
+    <column>1-12</column>
+    <column></column>
+  </row>
+  <row>
+    <column>Quarrel (or Bolt), Light</column>
+    <column>1</column>
+    <column>1-4</column>
+    <column>1-4</column>
+    <column></column>
+  </row>
+  <row>
+    <column>Quarrel (or Bolt), Heavy</column>
+    <column>2</column>
+    <column>2-5</column>
+    <column>2-7</column>
+    <column></column>
+  </row>
+  <row>
+    <column>Ranseur</column>
+    <column>50</column>
+    <column>2-8</column>
+    <column>2-8</column>
+    <column>includes Chauves Souris, Ransom, Rhonca, Rancie, Runka</column>
+  </row>
+  <row>
+    <column>Scimitar</column>
+    <column>40</column>
+    <column>1-8</column>
+    <column>1-8</column>
+    <column>includes Cutlass, Sabre, Sickle-Sword, Tulwar, etc.</column>
+  </row>
+  <row>
+    <column>Sling Bullet</column>
+    <column>2</column>
+    <column>2-5</column>
+    <column>2-7</column>
+    <column></column>
+  </row>
+  <row>
+    <column>Sling Stone</column>
+    <column>1</column>
+    <column>1-4</column>
+    <column>1-4</column>
+    <column></column>
+  </row>
+  <row>
+    <column>Spear**</column>
+    <column>40-60</column>
+    <column>1-6</column>
+    <column>1-8</column>
+    <column></column>
+  </row>
+  <row>
+    <column>Spetum</column>
+    <column>50</column>
+    <column>2-7</column>
+    <column>2-12</column>
+    <column>includes Corseque, Korseke</column>
+  </row>
+  <row>
+    <column>Staff, Quarter</column>
+    <column>50</column>
+    <column>1-6</column>
+    <column>1-6</column>
+    <column></column>
+  </row>
+  <row>
+    <column>Sword, Bastard</column>
+    <column>100</column>
+    <column>2-8</column>
+    <column>2-16</column>
+    <column></column>
+  </row>
+  <row>
+    <column>Sword, Broad</column>
+    <column>75</column>
+    <column>2-8</column>
+    <column>2-7</column>
+    <column></column>
+  </row>
+  <row>
+    <column>Sword, Long</column>
+    <column>60</column>
+    <column>1-8</column>
+    <column>1-12</column>
+    <column></column>
+  </row>
+  <row>
+    <column>Sword, Short</column>
+    <column>35</column>
+    <column>1-6</column>
+    <column>1-8</column>
+    <column>includes all painted cutting and thrusting weapons with blade length between 15" and 24".</column>
+  </row>
+  <row>
+    <column>Sword, Two-Handed</column>
+    <column>250</column>
+    <column>1-10</column>
+    <column>3-18</column>
+    <column></column>
+  </row>
+  <row>
+    <column>Trident</column>
+    <column>50</column>
+    <column>2-7</column>
+    <column>3-12</column>
+    <column></column>
+  </row>
+  <row>
+    <column>Voulge</column>
+    <column>125</column>
+    <column>2-8</column>
+    <column>2-8</column>
+    <column></column>
+  </row>
+</table>

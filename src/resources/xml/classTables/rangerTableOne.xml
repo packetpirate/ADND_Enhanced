@@ -1,0 +1,86 @@
+<table>
+  <columns>
+    <name>Experience Points</name>
+    <name>Experience Level</name>
+    <name>Accumulated Hit Dice</name>
+    <name>Level Title</name>
+  </columns>
+  <row>
+    <column>0 - 2,250</column>
+    <column>1</column>
+    <column>2</column>
+    <column>Runner</column>
+  </row>
+  <row>
+    <column>2,251 - 4,500</column>
+    <column>2</column>
+    <column>3</column>
+    <column>Strider</column>
+  </row>
+  <row>
+    <column>4,501 - 10,000</column>
+    <column>3</column>
+    <column>4</column>
+    <column>Scout</column>
+  </row>
+  <row>
+    <column>10,001 - 20,000</column>
+    <column>4</column>
+    <column>5</column>
+    <column>Courser</column>
+  </row>
+  <row>
+    <column>20,001 - 40,000</column>
+    <column>5</column>
+    <column>6</column>
+    <column>Tracker</column>
+  </row>
+  <row>
+    <column>40,001 - 90,000</column>
+    <column>6</column>
+    <column>7</column>
+    <column>Guide</column>
+  </row>
+  <row>
+    <column>90,001 - 150,000</column>
+    <column>7</column>
+    <column>8</column>
+    <column>Pathfinder</column>
+  </row>
+  <row>
+    <column>150,001 - 225,000</column>
+    <column>8</column>
+    <column>9</column>
+    <column>Ranger</column>
+  </row>
+  <row>
+    <column>225,001 - 325,000</column>
+    <column>9</column>
+    <column>10</column>
+    <column>Ranger Knight</column>
+  </row>
+  <row>
+    <column>325,001 - 650,000</column>
+    <column>10</column>
+    <column>11</column>
+    <column>Ranger Lord</column>
+  </row>
+  <row>
+    <column>650,001 - 975,000</column>
+    <column>11</column>
+    <column>11 + 2</column>
+    <column>Ranger Lord (11th level)</column>
+  </row>
+  <row>
+    <column>975,001 - 1,300,000</column>
+    <column>12</column>
+    <column>11 + 4</column>
+    <column>Ranger Lord (12th level)</column>
+  </row>
+  <row>
+    <column>+325,000</column>
+    <column>13+</column>
+    <column>+2</column>
+    <column>Ranger Lord (nth level)</column>
+  </row>
+</table>

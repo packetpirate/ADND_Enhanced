@@ -1,0 +1,121 @@
+<table>
+  <columns>
+    <name>Ability Score</name>
+    <name>General Information</name>
+    <name>Hit Point Adjustment</name>
+    <name>System Shock Survival</name>
+    <name>Resurrection Survival</name>
+  </columns>
+  <row>
+    <column>3</column>
+    <column></column>
+    <column>-2</column>
+    <column>35%</column>
+    <column>40%</column>
+  </row>
+  <row>
+    <column>4</column>
+    <column></column>
+    <column>-1</column>
+    <column>40%</column>
+    <column>45%</column>
+  </row>
+  <row>
+    <column>5</column>
+    <column>Here or lower, the character can only be an Illusionist.</column>
+    <column>-1</column>
+    <column>45%</column>
+    <column>50%</column>
+  </row>
+  <row>
+    <column>6</column>
+    <column>Minimum Constitution for an Elf or Half-Elf character.</column>
+    <column>-1</column>
+    <column>50%</column>
+    <column>55%</column>
+  </row>
+  <row>
+    <column>7</column>
+    <column>Minimum Constitution for a Fighter character.</column>
+    <column>0</column>
+    <column>55%</column>
+    <column>60%</column>
+  </row>
+  <row>
+    <column>8</column>
+    <column>Minimum Constitution for a Gnome character.</column>
+    <column>0</column>
+    <column>60%</column>
+    <column>65%</column>
+  </row>
+  <row>
+    <column>9</column>
+    <column>Minimum Constitution for a Paladin character.</column>
+    <column>0</column>
+    <column>65%</column>
+    <column>70%</column>
+  </row>
+  <row>
+    <column>10</column>
+    <column>Minimum Constitution for a Halfling character.</column>
+    <column>0</column>
+    <column>70%</column>
+    <column>75%</column>
+  </row>
+  <row>
+    <column>11</column>
+    <column>Minimum Constitution for a Monk character.</column>
+    <column>0</column>
+    <column>75%</column>
+    <column>80%</column>
+  </row>
+  <row>
+    <column>12</column>
+    <column>Minimum Constitution for a Dwarf character.</column>
+    <column>0</column>
+    <column>80%</column>
+    <column>85%</column>
+  </row>
+  <row>
+    <column>13</column>
+    <column>Minimum Constitution for a Half-Orc character.</column>
+    <column>0</column>
+    <column>85%</column>
+    <column>90%</column>
+  </row>
+  <row>
+    <column>14</column>
+    <column>Minimum Constitution for a Ranger character.</column>
+    <column>0</column>
+    <column>88%</column>
+    <column>92%</column>
+  </row>
+  <row>
+    <column>15</column>
+    <column></column>
+    <column>+1</column>
+    <column>91%</column>
+    <column>94%</column>
+  </row>
+  <row>
+    <column>16</column>
+    <column></column>
+    <column>+2</column>
+    <column>95%</column>
+    <column>96%</column>
+  </row>
+  <row>
+    <column>17</column>
+    <column></column>
+    <column>+2 (+3)*</column>
+    <column>97%</column>
+    <column>98%</column>
+  </row>
+  <row>
+    <column>18</column>
+    <column></column>
+    <column>+2 (+4)*</column>
+    <column>99%</column>
+    <column>100%</column>
+  </row>
+</table>

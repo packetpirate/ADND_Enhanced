@@ -1,0 +1,42 @@
+<table>
+  <columns>
+    <name>Item</name>
+    <name>Price</name>
+  </columns>
+  <row>
+    <column>Barding, Chain</column>
+    <column>250 g.p.</column>
+  </row>
+  <row>
+    <column>Barding, Leather</column>
+    <column>100 g.p.</column>
+  </row>
+  <row>
+    <column>Barding, Plate</column>
+    <column>500 g.p.</column>
+  </row>
+  <row>
+    <column>Bit and Bridle</column>
+    <column>15 s.p.</column>
+  </row>
+  <row>
+    <column>Harness</column>
+    <column>12 s.p.</column>
+  </row>
+  <row>
+    <column>Saddle</column>
+    <column>10 g.p.</column>
+  </row>
+  <row>
+    <column>Saddle Bags, Large</column>
+    <column>4 g.p.</column>
+  </row>
+  <row>
+    <column>Saddle Bags, Small</column>
+    <column>3 g.p.</column>
+  </row>
+  <row>
+    <column>Saddle Blanket</column>
+    <column>3 s.p.</column>
+  </row>
+</table>

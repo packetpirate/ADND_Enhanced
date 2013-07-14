@@ -1,0 +1,122 @@
+<table>
+  <columns>
+    <name>Item</name>
+    <name>Price</name>
+  </columns>
+  <row>
+    <column>Backpack, Leather</column>
+    <column>2 g.p.</column>
+  </row>
+  <row>
+    <column>Box, Iron, Large</column>
+    <column>28 g.p.</column>
+  </row>
+  <row>
+    <column>Box, Iron, Small</column>
+    <column>9 g.p.</column>
+  </row>
+  <row>
+    <column>Candle, Tallow</column>
+    <column>1 c.p.</column>
+  </row>
+  <row>
+    <column>Candle, Wax</column>
+    <column>1 s.p.</column>
+  </row>
+  <row>
+    <column>Case, Bone, Map or Scroll</column>
+    <column>5 g.p.</column>
+  </row>
+  <row>
+    <column>Case, Leather, Map or Scroll</column>
+    <column>15 s.p.</column>
+  </row>
+  <row>
+    <column>Chest, Wooden, Large</column>
+    <column>17 s.p.</column>
+  </row>
+  <row>
+    <column>Chest, Wooden, Small</column>
+    <column>8 s.p.</column>
+  </row>
+  <row>
+    <column>Lantern, Bullseye</column>
+    <column>12 g.p.</column>
+  </row>
+  <row>
+    <column>Lantern, Hooded</column>
+    <column>7 g.p.</column>
+  </row>
+  <row>
+    <column>Mirror, Large, Metal</column>
+    <column>10 g.p.</column>
+  </row>
+  <row>
+    <column>Mirror, Small, Silver</column>
+    <column>20 g.p.</column>
+  </row>
+  <row>
+    <column>Oil, Flask of</column>
+    <column>1 g.p.</column>
+  </row>
+  <row>
+    <column>Pole, 10'</column>
+    <column>3 c.p.</column>
+  </row>
+  <row>
+    <column>Pouch, Belt, Large</column>
+    <column>1 g.p.</column>
+  </row>
+  <row>
+    <column>Pouch, Belt, Small</column>
+    <column>15 s.p.</column>
+  </row>
+  <row>
+    <column>Quiver, 1 doz. arrows cap.</column>
+    <column>8 s.p.</column>
+  </row>
+  <row>
+    <column>Quiver, 1 score arrows cap.</column>
+    <column>12 s.p.</column>
+  </row>
+  <row>
+    <column>Quiver, 1 score bolts cap.</column>
+    <column>15 s.p.</column>
+  </row>
+  <row>
+    <column>Quiver, 2 score bolts cap.</column>
+    <column>1 g.p.</column>
+  </row>
+  <row>
+    <column>Rope, 50'</column>
+    <column>4 s.p.</column>
+  </row>
+  <row>
+    <column>Sack, Large</column>
+    <column>16 c.p.</column>
+  </row>
+  <row>
+    <column>Sack, Small</column>
+    <column>10 c.p.</column>
+  </row>
+  <row>
+    <column>Skin for Water or Wine</column>
+    <column>15 s.p.</column>
+  </row>
+  <row>
+    <column>Spike, Iron, Large</column>
+    <column>1 c.p.</column>
+  </row>
+  <row>
+    <column>Thieves' Picks and Tools</column>
+    <column>30 g.p.</column>
+  </row>
+  <row>
+    <column>Tinder Box w/ Flint and Steel</column>
+    <column>1 g.p.</column>
+  </row>
+  <row>
+    <column>Torch</column>
+    <column>1 c.p.</column>
+  </row>
+</table>

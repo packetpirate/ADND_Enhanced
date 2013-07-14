@@ -1,0 +1,104 @@
+<table>
+  <columns>
+    <name>Ability Score</name>
+    <name>General Information</name>
+    <name>Reaction Adjustment</name>
+    <name>Defensive Adjustment</name>
+  </columns>
+  <row>
+    <column>3</column>
+    <column></column>
+    <column>-3</column>
+    <column>+4</column>
+  </row>
+  <row>
+    <column>4</column>
+    <column></column>
+    <column>-2</column>
+    <column>+3</column>
+  </row>
+  <row>
+    <column>5</column>
+    <column>Here or lower, the character can only be a Cleric.</column>
+    <column>-1</column>
+    <column>+2</column>
+  </row>
+  <row>
+    <column>6</column>
+    <column>Minimum Dexterity for a Half-Elf or Magic-User character.</column>
+    <column>0</column>
+    <column>+1</column>
+  </row>
+  <row>
+    <column>7</column>
+    <column>Minimum Dexterity for an Elf character.</column>
+    <column>0</column>
+    <column>0</column>
+  </row>
+  <row>
+    <column>8</column>
+    <column>Minimum Dexterity for a Halfling character.</column>
+    <column>0</column>
+    <column>0</column>
+  </row>
+  <row>
+    <column>9</column>
+    <column>Minimum Dexterity for a Thief character.</column>
+    <column>0</column>
+    <column>0</column>
+  </row>
+  <row>
+    <column>10</column>
+    <column></column>
+    <column>0</column>
+    <column>0</column>
+  </row>
+  <row>
+    <column>11</column>
+    <column></column>
+    <column>0</column>
+    <column>0</column>
+  </row>
+  <row>
+    <column>12</column>
+    <column>Minimum Dexterity for an Assassin character.</column>
+    <column>0</column>
+    <column>0</column>
+  </row>
+  <row>
+    <column>13</column>
+    <column></column>
+    <column>0</column>
+    <column>0</column>
+  </row>
+  <row>
+    <column>14</column>
+    <column>Maximum Dexterity for a Half-Orc character.</column>
+    <column>0</column>
+    <column>0</column>
+  </row>
+  <row>
+    <column>15</column>
+    <column>Minimum Dexterity for a Monk character.</column>
+    <column>0</column>
+    <column>-1</column>
+  </row>
+  <row>
+    <column>16</column>
+    <column>Minimum Dexterity for an Illusionist character.</column>
+    <column>+1</column>
+    <column>-2</column>
+  </row>
+  <row>
+    <column>17</column>
+    <column>Maximum Dexterity for a Dwarf character.</column>
+    <column>+2</column>
+    <column>-3</column>
+  </row>
+  <row>
+    <column>18</column>
+    <column></column>
+    <column>+3</column>
+    <column>-4</column>
+  </row>
+</table>

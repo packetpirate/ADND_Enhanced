@@ -1,0 +1,90 @@
+<table>
+  <columns>
+    <name>Character Class</name>
+    <name>Armor</name>
+    <name>Shield</name>
+    <name>Weapons*</name>
+    <name>Oil</name>
+    <name>Poison</name>
+  </columns>
+  <row>
+    <column>Cleric</column>
+    <column>any</column>
+    <column>any</column>
+    <column>Club, Flail, Hammer, Mace, Staff</column>
+    <column>yes</column>
+    <column>never**</column>
+  </row>
+  <row>
+    <column>Druid</column>
+    <column>leather</column>
+    <column>wooden</column>
+    <column>Club, Dagger, Dart, Hammer, Scimitar, Sling, Spear, Staff</column>
+    <column>yes</column>
+    <column>?</column>
+  </row>
+  <row>
+    <column>Fighter</column>
+    <column>any</column>
+    <column>any</column>
+    <column>any***</column>
+    <column>yes</column>
+    <column>?</column>
+  </row>
+  <row>
+    <column>Paladin</column>
+    <column>any</column>
+    <column>any</column>
+    <column>any***</column>
+    <column>yes</column>
+    <column>never</column>
+  </row>
+  <row>
+    <column>Ranger</column>
+    <column>any</column>
+    <column>any</column>
+    <column>any***</column>
+    <column>yes</column>
+    <column>?</column>
+  </row>
+  <row>
+    <column>Magic-User</column>
+    <column>none</column>
+    <column>none</column>
+    <column>Dagger, Dart, Staff</column>
+    <column>yes</column>
+    <column>?</column>
+  </row>
+  <row>
+    <column>Illusionist</column>
+    <column>none</column>
+    <column>none</column>
+    <column>Dagger, Dart, Staff</column>
+    <column>yes</column>
+    <column>?</column>
+  </row>
+  <row>
+    <column>Thief</column>
+    <column>leather</column>
+    <column>none</column>
+    <column>Club, Dagger, Dart, Sling, Sword****</column>
+    <column>yes</column>
+    <column>?</column>
+  </row>
+  <row>
+    <column>Assassin</column>
+    <column>leather</column>
+    <column>any</column>
+    <column>any***</column>
+    <column>yes</column>
+    <column>yes</column>
+  </row>
+  <row>
+    <column>Monk</column>
+    <column>none</column>
+    <column>none</column>
+    <column>Bo Sticks, Club, Crossbow, Dagger, Hand Axe, Javelin, Jo Stick, Pole Arm, Spear, Staff</column>
+    <column>no</column>
+    <column>?</column>
+  </row>
+</table>

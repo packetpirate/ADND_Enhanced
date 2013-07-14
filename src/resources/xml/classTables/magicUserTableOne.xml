@@ -1,0 +1,122 @@
+<table>
+  <columns>
+    <name>Experience Points</name>
+    <name>Experience Level</name>
+    <name>Accumulated Hit Dice</name>
+    <name>Level Title</name>
+  </columns>
+  <row>
+    <column>0 - 2,500</column>
+    <column>1</column>
+    <column>1</column>
+    <column>Prestidigitator</column>
+  </row>
+  <row>
+    <column>2,501 - 5,000</column>
+    <column>2</column>
+    <column>2</column>
+    <column>Evoker</column>
+  </row>
+  <row>
+    <column>5,001 - 10,000</column>
+    <column>3</column>
+    <column>3</column>
+    <column>Conjurer</column>
+  </row>
+  <row>
+    <column>10,001 - 22,500</column>
+    <column>4</column>
+    <column>4</column>
+    <column>Theurgist</column>
+  </row>
+  <row>
+    <column>22,501 - 40,000</column>
+    <column>5</column>
+    <column>5</column>
+    <column>Thaumaturgist</column>
+  </row>
+  <row>
+    <column>40,001 - 60,000</column>
+    <column>6</column>
+    <column>6</column>
+    <column>Magician</column>
+  </row>
+  <row>
+    <column>60,001 - 90,000</column>
+    <column>7</column>
+    <column>7</column>
+    <column>Enchanter</column>
+  </row>
+  <row>
+    <column>90,001 - 135,000</column>
+    <column>8</column>
+    <column>8</column>
+    <column>Warlock</column>
+  </row>
+  <row>
+    <column>135,001 - 250,000</column>
+    <column>9</column>
+    <column>9</column>
+    <column>Sorcerer</column>
+  </row>
+  <row>
+    <column>250,001 - 375,000</column>
+    <column>10</column>
+    <column>10</column>
+    <column>Necromancer</column>
+  </row>
+  <row>
+    <column>375,001 - 750,000</column>
+    <column>11</column>
+    <column>11</column>
+    <column>Wizard</column>
+  </row>
+  <row>
+    <column>750,001 - 1,125,000</column>
+    <column>12</column>
+    <column>11 + 1</column>
+    <column>Wizard (12th level)</column>
+  </row>
+  <row>
+    <column>1,125,001 - 1,500,000</column>
+    <column>13</column>
+    <column>11 + 2</column>
+    <column>Wizard (13th level)</column>
+  </row>
+  <row>
+    <column>1,500,001 - 1,875,000</column>
+    <column>14</column>
+    <column>11 + 3</column>
+    <column>Wizard (14th level)</column>
+  </row>
+  <row>
+    <column>1,875,001 - 2,250,000</column>
+    <column>15</column>
+    <column>11 + 4</column>
+    <column>Wizard (15th level)</column>
+  </row>
+  <row>
+    <column>2,250,001 - 2,625,000</column>
+    <column>16</column>
+    <column>11 + 5</column>
+    <column>Wizard (16th level)</column>
+  </row>
+  <row>
+    <column>2,625,001 - 3,000,000</column>
+    <column>17</column>
+    <column>11 + 6</column>
+    <column>Wizard (17th level)</column>
+  </row>
+  <row>
+    <column>3,000,001 - 3,375,000</column>
+    <column>18</column>
+    <column>11 + 7</column>
+    <column>Wizard (18th level) or Arch-Mage</column>
+  </row>
+  <row>
+    <column>+375,000</column>
+    <column>19+</column>
+    <column>+1</column>
+    <column>Wizard (nth level) or Arch-Mage</column>
+  </row>
+</table>

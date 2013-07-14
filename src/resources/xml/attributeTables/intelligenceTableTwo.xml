@@ -1,0 +1,50 @@
+<table>
+  <columns>
+    <name>Ability Score</name>
+    <name>Chance to Know Each Spell</name>
+    <name>Minimum Spells/Level</name>
+    <name>Maximum Spells/Level</name>
+  </columns>
+  <row>
+    <column>9</column>
+    <column>35%</column>
+    <column>4</column>
+    <column>6</column>
+  </row>
+  <row>
+    <column>10-12</column>
+    <column>45%</column>
+    <column>5</column>
+    <column>7</column>
+  </row>
+  <row>
+    <column>13-14</column>
+    <column>55%</column>
+    <column>6</column>
+    <column>9</column>
+  </row>
+  <row>
+    <column>15-16</column>
+    <column>65%</column>
+    <column>7</column>
+    <column>11</column>
+  </row>
+  <row>
+    <column>17</column>
+    <column>75%</column>
+    <column>8</column>
+    <column>14</column>
+  </row>
+  <row>
+    <column>18</column>
+    <column>85%</column>
+    <column>9</column>
+    <column>18</column>
+  </row>
+  <row>
+    <column>19</column>
+    <column>95%</column>
+    <column>10</column>
+    <column>All</column>
+  </row>
+</table>

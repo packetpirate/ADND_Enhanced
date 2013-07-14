@@ -1,0 +1,46 @@
+<table>
+  <columns>
+    <name>Item</name>
+    <name>Price</name>
+  </columns>
+  <row>
+    <column>Ale, Pint</column>
+    <column>1 s.p.</column>
+  </row>
+  <row>
+    <column>Beer, Small, Pint</column>
+    <column>5 c.p.</column>
+  </row>
+  <row>
+    <column>Food, Merchant's Meal</column>
+    <column>1 s.p.</column>
+  </row>
+  <row>
+    <column>Food, Rich Meal</column>
+    <column>1 g.p.</column>
+  </row>
+  <row>
+    <column>Grain, Horse Meal, 1 day</column>
+    <column>1 s.p.</column>
+  </row>
+  <row>
+    <column>Mead, Pint</column>
+    <column>5 s.p.</column>
+  </row>
+  <row>
+    <column>Rations, Iron, 1 week</column>
+    <column>5 g.p.</column>
+  </row>
+  <row>
+    <column>Rations, Standard, 1 week</column>
+    <column>3 g.p.</column>
+  </row>
+  <row>
+    <column>Wine, Pint, Good</column>
+    <column>10 s.p.</column>
+  </row>
+  <row>
+    <column>Wine, Pint, Watered</column>
+    <column>5 s.p.</column>
+  </row>
+</table>

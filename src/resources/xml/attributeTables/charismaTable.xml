@@ -1,0 +1,121 @@
+<table>
+  <columns>
+    <name>Ability Score</name>
+    <name>General Information</name>
+    <name>Max # of Henchmen</name>
+    <name>Loyalty Base</name>
+    <name>Reaction Adjustment</name>
+  </columns>
+  <row>
+    <column>3</column>
+    <column></column>
+    <column>1</column>
+    <column>-30%</column>
+    <column>-25%</column>
+  </row>
+  <row>
+    <column>4</column>
+    <column></column>
+    <column>1</column>
+    <column>-25%</column>
+    <column>-20%</column>
+  </row>
+  <row>
+    <column>5</column>
+    <column>Here or lower, the character can only be an Assassin.</column>
+    <column>2</column>
+    <column>-20%</column>
+    <column>-15%</column>
+  </row>
+  <row>
+    <column>6</column>
+    <column></column>
+    <column>2</column>
+    <column>-15%</column>
+    <column>-10%</column>
+  </row>
+  <row>
+    <column>7</column>
+    <column></column>
+    <column>3</column>
+    <column>-10%</column>
+    <column>-05%</column>
+  </row>
+  <row>
+    <column>8</column>
+    <column>Minimum Charisma for an Elf character.</column>
+    <column>3</column>
+    <column>-05%</column>
+    <column>normal</column>
+  </row>
+  <row>
+    <column>9</column>
+    <column></column>
+    <column>4</column>
+    <column>normal</column>
+    <column>normal</column>
+  </row>
+  <row>
+    <column>10</column>
+    <column></column>
+    <column>4</column>
+    <column>normal</column>
+    <column>normal</column>
+  </row>
+  <row>
+    <column>11</column>
+    <column></column>
+    <column>4</column>
+    <column>normal</column>
+    <column>normal</column>
+  </row>
+  <row>
+    <column>12</column>
+    <column>Maximum Charisma for a Half-Orc character.*</column>
+    <column>5</column>
+    <column>normal</column>
+    <column>normal</column>
+  </row>
+  <row>
+    <column>13</column>
+    <column></column>
+    <column>5</column>
+    <column>normal</column>
+    <column>+05%</column>
+  </row>
+  <row>
+    <column>14</column>
+    <column></column>
+    <column>6</column>
+    <column>+05%</column>
+    <column>+10%</column>
+  </row>
+  <row>
+    <column>15</column>
+    <column>Minimum Charisma for a Druid character.</column>
+    <column>7</column>
+    <column>+15%</column>
+    <column>+15%</column>
+  </row>
+  <row>
+    <column>16</column>
+    <column>Maximum Charisma for a Dwarf character.**</column>
+    <column>8</column>
+    <column>+20%</column>
+    <column>+25%</column>
+  </row>
+  <row>
+    <column>17</column>
+    <column>Minimum Charisma for a Paladin character.</column>
+    <column>10</column>
+    <column>30%</column>
+    <column>30%</column>
+  </row>
+  <row>
+    <column>18</column>
+    <column></column>
+    <column>15</column>
+    <column>+40%</column>
+    <column>+35%</column>
+  </row>
+</table>

@@ -1,0 +1,68 @@
+<table>
+  <columns>
+    <name>Race of Thief</name>
+    <name>Pick Pockets</name>
+    <name>Open Locks</name>
+    <name>Find / Remove Traps</name>
+    <name>Move Silently</name>
+    <name>Hide in Shadows</name>
+    <name>Hear Noise</name>
+    <name>Climb Walls</name>
+    <name>Read Languages</name>
+  </columns>
+  <row>
+    <column>Dwarf</column>
+    <column>-</column>
+    <column>+10%</column>
+    <column>+15%</column>
+    <column>-</column>
+    <column>-</column>
+    <column>-</column>
+    <column>-10%</column>
+    <column>-5%</column>
+  </row>
+  <row>
+    <column>Elf</column>
+    <column>+5%</column>
+    <column>-5%</column>
+    <column>-</column>
+    <column>+5%</column>
+    <column>+10%</column>
+    <column>+5%</column>
+    <column>-</column>
+    <column>-</column>
+  </row>
+  <row>
+    <column>Gnome</column>
+    <column>-</column>
+    <column>+5%</column>
+    <column>+10%</column>
+    <column>+5%</column>
+    <column>+5%</column>
+    <column>+10%</column>
+    <column>-15%</column>
+    <column>-</column>
+  </row>
+  <row>
+    <column>Half-Elf</column>
+    <column>+10%</column>
+    <column>-</column>
+    <column>-</column>
+    <column>-</column>
+    <column>+5%</column>
+    <column>-</column>
+    <column>-</column>
+    <column>-</column>
+  </row>
+  <row>
+    <column>Halfling</column>
+    <column>-5%</column>
+    <column>+5%</column>
+    <column>+5%</column>
+    <column>-</column>
+    <column>-</column>
+    <column>+5%</column>
+    <column>+5%</column>
+    <column>-10%</column>
+  </row>
+</table>

@@ -1,0 +1,50 @@
+<table>
+  <columns>
+    <name>Item</name>
+    <name>Price</name>
+  </columns>
+  <row>
+    <column>Belt</column>
+    <column>3 s.p.</column>
+  </row>
+  <row>
+    <column>Boots, High, Hard</column>
+    <column>2 g.p.</column>
+  </row>
+  <row>
+    <column>Boots, High, Soft</column>
+    <column>1 g.p.</column>
+  </row>
+  <row>
+    <column>Boots, Low, Hard</column>
+    <column>1 g.p.</column>
+  </row>
+  <row>
+    <column>Boots, Low, Soft</column>
+    <column>8 s.p.</column>
+  </row>
+  <row>
+    <column>Cap</column>
+    <column>1 s.p.</column>
+  </row>
+  <row>
+    <column>Cloak</column>
+    <column>5 s.p.</column>
+  </row>
+  <row>
+    <column>Girdle, Broad</column>
+    <column>2 g.p.</column>
+  </row>
+  <row>
+    <column>Girdle, Normal</column>
+    <column>10 s.p.</column>
+  </row>
+  <row>
+    <column>Hat</column>
+    <column>7 s.p.</column>
+  </row>
+  <row>
+    <column>Robe</column>
+    <column>6 s.p.</column>
+  </row>
+</table>

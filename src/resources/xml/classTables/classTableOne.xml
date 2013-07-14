@@ -1,0 +1,79 @@
+<table>
+  <columns>
+    <name>Character Class</name>
+    <name>Hit Die Type</name>
+    <name>Maximum # of Hit Dice</name>
+    <name>Spell Ability</name>
+    <name>Class Level Limit</name>
+  </columns>
+  <row>
+    <column>Cleric</column>
+    <column>d8</column>
+    <column>9</column>
+    <column>yes</column>
+    <column>none</column>
+  </row>
+  <row>
+    <column>Druid</column>
+    <column>d8</column>
+    <column>14</column>
+    <column>yes</column>
+    <column>14 (The Great Druid)</column>
+  </row>
+  <row>
+    <column>Fighter</column>
+    <column>d10</column>
+    <column>9</column>
+    <column>yes</column>
+    <column>none</column>
+  </row>
+  <row>
+    <column>Paladin</column>
+    <column>d10</column>
+    <column>9</column>
+    <column>yes*</column>
+    <column>none</column>
+  </row>
+  <row>
+    <column>Ranger</column>
+    <column>d8 (+d8)**</column>
+    <column>10 (+1)**</column>
+    <column>yes***</column>
+    <column>none</column>
+  </row>
+  <row>
+    <column>Magic-User</column>
+    <column>d4</column>
+    <column>11</column>
+    <column>yes</column>
+    <column>none</column>
+  </row>
+  <row>
+    <column>Illusionist</column>
+    <column>d4</column>
+    <column>10</column>
+    <column>yes</column>
+    <column>none</column>
+  </row>
+  <row>
+    <column>Thief</column>
+    <column>d6</column>
+    <column>10</column>
+    <column>no****</column>
+    <column>none</column>
+  </row>
+  <row>
+    <column>Assassin</column>
+    <column>d6</column>
+    <column>15</column>
+    <column>no****</column>
+    <column>14 (Master of Assassins)</column>
+  </row>
+  <row>
+    <column>Monk</column>
+    <column>d4 (+d4)**</column>
+    <column>17 (+1)**</column>
+    <column>no</column>
+    <column>17 (Grand Master of Flowers)</column>
+  </row>
+</table>

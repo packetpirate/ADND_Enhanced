@@ -1,0 +1,90 @@
+<table>
+  <columns>
+    <name>Ability Score</name>
+    <name>Picking Pockets</name>
+    <name>Opening Locks</name>
+    <name>Locating/Removing Traps</name>
+    <name>Moving Silently</name>
+    <name>Hiding in Shadows</name>
+  </columns>
+  <row>
+    <column>9</column>
+    <column>-15%</column>
+    <column>-10%</column>
+    <column>-10%</column>
+    <column>-20%</column>
+    <column>-10%</column>
+  </row>
+  <row>
+    <column>10</column>
+    <column>-10%</column>
+    <column>-05%</column>
+    <column>-10%</column>
+    <column>-15%</column>
+    <column>-05%</column>
+  </row>
+  <row>
+    <column>11</column>
+    <column>-05%</column>
+    <column>0%</column>
+    <column>-05%</column>
+    <column>-10%</column>
+    <column>0%</column>
+  </row>
+  <row>
+    <column>12</column>
+    <column>0%</column>
+    <column>0%</column>
+    <column>0%</column>
+    <column>-05%</column>
+    <column>0%</column>
+  </row>
+  <row>
+    <column>13</column>
+    <column>0%</column>
+    <column>0%</column>
+    <column>0%</column>
+    <column>0%</column>
+    <column>0%</column>
+  </row>
+  <row>
+    <column>14</column>
+    <column>0%</column>
+    <column>0%</column>
+    <column>0%</column>
+    <column>0%</column>
+    <column>0%</column>
+  </row>
+  <row>
+    <column>15</column>
+    <column>0%</column>
+    <column>0%</column>
+    <column>0%</column>
+    <column>0%</column>
+    <column>0%</column>
+  </row>
+  <row>
+    <column>16</column>
+    <column>0%</column>
+    <column>+05%</column>
+    <column>0%</column>
+    <column>0%</column>
+    <column>0%</column>
+  </row>
+  <row>
+    <column>17</column>
+    <column>+05%</column>
+    <column>+10%</column>
+    <column>0%</column>
+    <column>+05%</column>
+    <column>+05%</column>
+  </row>
+  <row>
+    <column>18</column>
+    <column>+10%</column>
+    <column>+15%</column>
+    <column>+05%</column>
+    <column>+10%</column>
+    <column>+10%</column>
+  </row>
+</table>

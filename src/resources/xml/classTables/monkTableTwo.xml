@@ -1,0 +1,164 @@
+<table>
+  <columns>
+    <name>Level Title</name>
+    <name>Level</name>
+    <name>Effective Armor Class</name>
+    <name>Move</name>
+    <name>Open Hand Attacks per Melee Round*</name>
+    <name>Open Hand Damage</name>
+    <name>Special Abilities</name>
+  </columns>
+  <row>
+    <column>Novice</column>
+    <column>1</column>
+    <column>10</column>
+    <column>15"</column>
+    <column>1</column>
+    <column>1-3</column>
+    <column>-</column>
+  </row>
+  <row>
+    <column>Initiate</column>
+    <column>2</column>
+    <column>9</column>
+    <column>16"</column>
+    <column>1</column>
+    <column>1-4</column>
+    <column>-</column>
+  </row>
+  <row>
+    <column>Brother</column>
+    <column>3</column>
+    <column>8</column>
+    <column>17"</column>
+    <column>1</column>
+    <column>1-6</column>
+    <column>A</column>
+  </row>
+  <row>
+    <column>Disciple</column>
+    <column>4</column>
+    <column>7</column>
+    <column>18"</column>
+    <column>5/4</column>
+    <column>1-6</column>
+    <column>B</column>
+  </row>
+  <row>
+    <column>Immaculate</column>
+    <column>5</column>
+    <column>7</column>
+    <column>19"</column>
+    <column>5/4</column>
+    <column>2-7</column>
+    <column>C</column>
+  </row>
+  <row>
+    <column>Master</column>
+    <column>6</column>
+    <column>6</column>
+    <column>20"</column>
+    <column>3/2</column>
+    <column>2-8</column>
+    <column>D</column>
+  </row>
+  <row>
+    <column>Superior Master</column>
+    <column>7</column>
+    <column>5</column>
+    <column>21"</column>
+    <column>3/2</column>
+    <column>3-9</column>
+    <column>E</column>
+  </row>
+  <row>
+    <column>Master of Dragons</column>
+    <column>8</column>
+    <column>4</column>
+    <column>22"</column>
+    <column>3/2</column>
+    <column>2-12</column>
+    <column>F</column>
+  </row>
+  <row>
+    <column>Master of the North Wind</column>
+    <column>9</column>
+    <column>3</column>
+    <column>23"</column>
+    <column>2</column>
+    <column>3-12</column>
+    <column>G</column>
+  </row>
+  <row>
+    <column>Master of the West Wind</column>
+    <column>10</column>
+    <column>3</column>
+    <column>24"</column>
+    <column>2</column>
+    <column>3-13</column>
+    <column>H</column>
+  </row>
+  <row>
+    <column>Master of the South Wind</column>
+    <column>11</column>
+    <column>2</column>
+    <column>25"</column>
+    <column>5/2</column>
+    <column>4-13</column>
+    <column>I</column>
+  </row>
+  <row>
+    <column>Master of the East Wind</column>
+    <column>12</column>
+    <column>1</column>
+    <column>26"</column>
+    <column>5/2</column>
+    <column>4-16</column>
+    <column>J</column>
+  </row>
+  <row>
+    <column>Master of Winter</column>
+    <column>13</column>
+    <column>0</column>
+    <column>27"</column>
+    <column>5/2</column>
+    <column>5-17</column>
+    <column>K</column>
+  </row>
+  <row>
+    <column>Master of Autumn</column>
+    <column>14</column>
+    <column>-1</column>
+    <column>28"</column>
+    <column>3</column>
+    <column>5-20</column>
+    <column>-</column>
+  </row>
+  <row>
+    <column>Master of Summer</column>
+    <column>15</column>
+    <column>-1</column>
+    <column>29"</column>
+    <column>3</column>
+    <column>6-24</column>
+    <column>-</column>
+  </row>
+  <row>
+    <column>Master of Spring</column>
+    <column>16</column>
+    <column>-2</column>
+    <column>30"</column>
+    <column>4</column>
+    <column>5-30</column>
+    <column>-</column>
+  </row>
+  <row>
+    <column>Grand Master of Flowers</column>
+    <column>17</column>
+    <column>-3</column>
+    <column>32"</column>
+    <column>4</column>
+    <column>8-32</column>
+    <column>-</column>
+  </row>
+</table>

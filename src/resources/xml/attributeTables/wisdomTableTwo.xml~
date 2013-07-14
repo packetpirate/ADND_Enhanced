@@ -1,0 +1,61 @@
+<table>
+  <columns>
+    <name>Ability Score</name>
+    <name>Spell Bonus</name>
+    <name>Chance of Failure</name>
+  </columns>
+  <row>
+    <column>9</column>
+    <column>none</column>
+    <column>20%</column>
+  </row>
+  <row>
+    <column>10</column>
+    <column>none</column>
+    <column>15%</column>
+  </row>
+  <row>
+    <column>11</column>
+    <column>none</column>
+    <column>5%</column>
+  </row>
+  <row>
+    <column>12</column>
+    <column>none</column>
+    <column>5%</column>
+  </row>
+  <row>
+    <column>13</column>
+    <column>One 1st-Level</column>
+    <column>0%</column>
+  </row>
+  <row>
+    <column>14</column>
+    <column>One 1st-Level</column>
+    <column>0%</column>
+  </row>
+  <row>
+    <column>15</column>
+    <column>One 2nd-Level</column>
+    <column>0%</column>
+  </row>
+  <row>
+    <column>16</column>
+    <column>One 2nd-Level</column>
+    <column>0%</column>
+  </row>
+  <row>
+    <column>17</column>
+    <column>One 3rd-Level*</column>
+    <column>0%</column>
+  </row>
+  <row>
+    <column></column>
+    <column></column>
+    <column></column>
+  </row>  <row>
+    <column></column>
+    <column></column>
+    <column></column>
+  </row>
+</tab

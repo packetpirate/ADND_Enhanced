@@ -1,0 +1,42 @@
+<table>
+  <columns>
+    <name>Level</name>
+    <name>Attacks Per Melee Round*</name>
+  </columns>
+  <row>
+    <column>Fighter 1-6</column>
+    <column>1/1 round</column>
+  </row>
+  <row>
+    <column>Paladin 1-6</column>
+    <column>1/1 round</column>
+  </row>
+  <row>
+    <column>Ranger 1-7</column>
+    <column>1/1 round</column>
+  </row>
+  <row>
+    <column>Fighter 7-12</column>
+    <column>3/2 rounds</column>
+  </row>
+  <row>
+    <column>Paladin 7-12</column>
+    <column>3/2 rounds</column>
+  </row>
+  <row>
+    <column>Ranger 8-14</column>
+    <column>3/2 rounds</column>
+  </row>
+  <row>
+    <column>Fighter 13+</column>
+    <column>2/1 round</column>
+  </row>
+  <row>
+    <column>Paladin 13+</column>
+    <column>2/1 round</column>
+  </row>
+  <row>
+    <column>Ranger 15+</column>
+    <column>2/1 round</column>
+  </row>
+</table>

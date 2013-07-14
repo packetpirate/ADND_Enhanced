@@ -1,0 +1,30 @@
+<table>
+  <columns>
+    <name>Item</name>
+    <name>Price</name>
+  </columns>
+  <row>
+    <column>Beads, Prayer</column>
+    <column>1 g.p.</column>
+  </row>
+  <row>
+    <column>Incense Stick</column>
+    <column>1 g.p.</column>
+  </row>
+  <row>
+    <column>Symbol, Holy*, Iron</column>
+    <column>2 g.p.</column>
+  </row>
+  <row>
+    <column>Symbol, Holy*, Silver</column>
+    <column>50 g.p.</column>
+  </row>
+  <row>
+    <column>Symbol, Holy*, Wooden</column>
+    <column>7 s.p.</column>
+  </row>
+  <row>
+    <column>Water, Holy*, Vial * or Unholy</column>
+    <column>25 g.p.</column>
+  </row>
+</table>

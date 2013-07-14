@@ -1,0 +1,92 @@
+<table>
+  <columns>
+    <name>Experience Points</name>
+    <name>Experience Level</name>
+    <name>Accumulated Hit Dice</name>
+    <name>Level Title</name>
+  </columns>
+  <row>
+    <column>0 - 2,000</column>
+    <column>1</column>
+    <column>1</column>
+    <column>Aspirant</column>
+  </row>
+  <row>
+    <column>2,001 - 4,000</column>
+    <column>2</column>
+    <column>2</column>
+    <column>Ovate</column>
+  </row>
+  <row>
+    <column>4,001 - 7,500</column>
+    <column>3</column>
+    <column>3</column>
+    <column>Initiate of the 1st Circle</column>
+  </row>
+  <row>
+    <column>7,501 - 12,500</column>
+    <column>4</column>
+    <column>4</column>
+    <column>Initiate of the 2nd Circle</column>
+  </row>
+  <row>
+    <column>12,501 - 20,000</column>
+    <column>5</column>
+    <column>5</column>
+    <column>Initiate of the 3rd Circle</column>
+  </row>
+  <row>
+    <column>20,001 - 35,000</column>
+    <column>6</column>
+    <column>6</column>
+    <column>Initiate of the 4th Circle</column>
+  </row>
+  <row>
+    <column>35,001 - 60,000</column>
+    <column>7</column>
+    <column>7</column>
+    <column>Initiate of the 5th Circle</column>
+  </row>
+  <row>
+    <column>60,001 - 90,000</column>
+    <column>8</column>
+    <column>8</column>
+    <column>Initiate of the 6th Circle</column>
+  </row>
+  <row>
+    <column>90,001 - 125,000</column>
+    <column>9</column>
+    <column>9</column>
+    <column>Initiate of the 7th Circle</column>
+  </row>
+  <row>
+    <column>125,001 - 200,000</column>
+    <column>10</column>
+    <column>10</column>
+    <column>Initiate of the 8th Circle</column>
+  </row>
+  <row>
+    <column>200,001 - 300,000</column>
+    <column>11</column>
+    <column>11</column>
+    <column>Initiate of the 9th Circle</column>
+  </row>
+  <row>
+    <column>300,001 - 750,000</column>
+    <column>12</column>
+    <column>12</column>
+    <column>Druid</column>
+  </row>
+  <row>
+    <column>750,001 - 1,500,000</column>
+    <column>13</column>
+    <column>13</column>
+    <column>Archdruid</column>
+  </row>
+  <row>
+    <column>1,500,001</column>
+    <column>14</column>
+    <column>14</column>
+    <column>The Great Druid</column>
+  </row>
+</table>

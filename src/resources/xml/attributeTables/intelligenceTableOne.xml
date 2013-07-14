@@ -1,0 +1,87 @@
+<table>
+  <columns>
+    <name>Ability Score</name>
+    <name>General Information</name>
+    <name>Additional Languages</name>
+  </columns>
+  <row>
+    <column>3</column>
+    <column></column>
+    <column>0</column>
+  </row>
+  <row>
+    <column>4</column>
+    <column>Minimum Intelligence for a Half-Elf character.</column>
+    <column>0</column>
+  </row>
+  <row>
+    <column>5</column>
+    <column>Here or lower, the character can only be a Fighter.</column>
+    <column>0</column>
+  </row>
+  <row>
+    <column>6</column>
+    <column>Minimum Intelligence for a Halfling character.</column>
+    <column>0</column>
+  </row>
+  <row>
+    <column>7</column>
+    <column>Minimum Intelligence for a Gnome character.</column>
+    <column>0</column>
+  </row>
+  <row>
+    <column>8</column>
+    <column>Minimum Intelligence for an Elf character.</column>
+    <column>1</column>
+  </row>
+  <row>
+    <column>9</column>
+    <column>Minimum Intelligence for a Paladin or Magic-User character.</column>
+    <column>1</column>
+  </row>
+  <row>
+    <column>10</column>
+    <column>Minimum Intelligence for use of 5th-level magic spells.</column>
+    <column>2</column>
+  </row>
+  <row>
+    <column>11</column>
+    <column>Minimum Intelligence for an Assassin character.</column>
+    <column>2</column>
+  </row>
+  <row>
+    <column>12</column>
+    <column>Minimum Intelligence for use of 6th-level magic spells.</column>
+    <column>3</column>
+  </row>
+  <row>
+    <column>13</column>
+    <column>Minimum Intelligence for a Ranger character.</column>
+    <column>3</column>
+  </row>
+  <row>
+    <column>14</column>
+    <column>Minimum Intelligence for use of 7th-level magic spells.</column>
+    <column>4</column>
+  </row>
+  <row>
+    <column>15</column>
+    <column>Minimum Intelligence for an Illusionist character.</column>
+    <column>4</column>
+  </row>
+  <row>
+    <column>16</column>
+    <column>Minimum Intelligence for use of 8th-level magic spells.</column>
+    <column>5</column>
+  </row>
+  <row>
+    <column>17</column>
+    <column>Maximum Intelligence for a Half-Orc character.</column>
+    <column>6</column>
+  </row>
+  <row>
+    <column>18</column>
+    <column>Minimum Intelligence for use of 9th-level magic spells.</column>
+    <column>7</column>
+  </row>
+</table>

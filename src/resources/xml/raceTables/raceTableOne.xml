@@ -1,0 +1,112 @@
+<table>
+  <columns>
+    <name>Character Class</name>
+    <name>Dwarven</name>
+    <name>Elven</name>
+    <name>Gnome</name>
+    <name>Half-Elven</name>
+    <name>Halfling</name>
+    <name>Half-Orc</name>
+    <name>Human</name>
+  </columns>
+  <row>
+    <column>Cleric (A)*</column>
+    <column>no</column>
+    <column>no</column>
+    <column>no</column>
+    <column>yes</column>
+    <column>no</column>
+    <column>yes</column>
+    <column>yes</column>
+  </row>
+  <row>
+    <column>Druid (N)</column>
+    <column>no</column>
+    <column>no</column>
+    <column>no</column>
+    <column>yes</column>
+    <column>no</column>
+    <column>no</column>
+    <column>yes</column>
+  </row>
+  <row>
+    <column>Fighter (A)</column>
+    <column>yes</column>
+    <column>yes</column>
+    <column>yes</column>
+    <column>yes</column>
+    <column>yes</column>
+    <column>yes</column>
+    <column>yes</column>
+  </row>
+  <row>
+    <column>Paladin (LG)</column>
+    <column>no</column>
+    <column>no</column>
+    <column>no</column>
+    <column>no</column>
+    <column>no</column>
+    <column>no</column>
+    <column>yes</column>
+  </row>
+  <row>
+    <column>Ranger (G)</column>
+    <column>no</column>
+    <column>no</column>
+    <column>no</column>
+    <column>yes</column>
+    <column>no</column>
+    <column>no</column>
+    <column>yes</column>
+  </row>
+  <row>
+    <column>Magic-User (A)</column>
+    <column>no</column>
+    <column>yes</column>
+    <column>no</column>
+    <column>yes</column>
+    <column>no</column>
+    <column>no</column>
+    <column>yes</column>
+  </row>
+  <row>
+    <column>Illusionist (A)</column>
+    <column>no</column>
+    <column>no</column>
+    <column>yes</column>
+    <column>no</column>
+    <column>no</column>
+    <column>no</column>
+    <column>yes</column>
+  </row>
+  <row>
+    <column>Thief (N to E)</column>
+    <column>yes</column>
+    <column>yes</column>
+    <column>yes</column>
+    <column>yes</column>
+    <column>yes</column>
+    <column>yes</column>
+    <column>yes</column>
+  </row>
+  <row>
+    <column>Assassin (E)</column>
+    <column>yes</column>
+    <column>yes</column>
+    <column>yes</column>
+    <column>yes</column>
+    <column>no</column>
+    <column>yes</column>
+    <column>yes</column>
+  </row>
+  <row>
+    <column>Monk (L)</column>
+    <column>no</column>
+    <column>no</column>
+    <column>no</column>
+    <column>no</column>
+    <column>no</column>
+    <column>no</column>
+    <column>yes</column>
+  </row>
+</table>

@@ -1,0 +1,90 @@
+<table>
+  <columns>
+    <name>Ranger Level</name>
+    <name>1 (Druid)</name>
+    <name>2 (Druid)</name>
+    <name>3 (Druid)</name>
+    <name>1 (Magic-User)**</name>
+    <name>2 (Magic-User)**</name>
+  </columns>
+  <row>
+    <column>8</column>
+    <column>1</column>
+    <column>-</column>
+    <column>-</column>
+    <column>-</column>
+    <column>-</column>
+  </row>
+  <row>
+    <column>9</column>
+    <column>1</column>
+    <column>-</column>
+    <column>-</column>
+    <column>1</column>
+    <column>-</column>
+  </row>
+  <row>
+    <column>10</column>
+    <column>2</column>
+    <column>-</column>
+    <column>-</column>
+    <column>1</column>
+    <column>-</column>
+  </row>
+  <row>
+    <column>11</column>
+    <column>2</column>
+    <column>-</column>
+    <column>-</column>
+    <column>2</column>
+    <column>-</column>
+  </row>
+  <row>
+    <column>12</column>
+    <column>2</column>
+    <column>1</column>
+    <column>-</column>
+    <column>2</column>
+    <column>-</column>
+  </row>
+  <row>
+    <column>13</column>
+    <column>2</column>
+    <column>1</column>
+    <column>-</column>
+    <column>2</column>
+    <column>1</column>
+  </row>
+  <row>
+    <column>14</column>
+    <column>2</column>
+    <column>2</column>
+    <column>-</column>
+    <column>2</column>
+    <column>1</column>
+  </row>
+  <row>
+    <column>15</column>
+    <column>2</column>
+    <column>2</column>
+    <column>-</column>
+    <column>2</column>
+    <column>2</column>
+  </row>
+  <row>
+    <column>16</column>
+    <column>2</column>
+    <column>2</column>
+    <column>1</column>
+    <column>2</column>
+    <column>2</column>
+  </row>
+  <row>
+    <column>17*</column>
+    <column>2</column>
+    <column>2</column>
+    <column>2</column>
+    <column>2</column>
+    <column>2</column>
+  </row>
+</table>

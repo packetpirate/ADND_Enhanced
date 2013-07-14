@@ -1,0 +1,110 @@
+<table>
+  <columns>
+    <name>Experience Points</name>
+    <name>Experience Level</name>
+    <name>Accumulated Hit Dice</name>
+    <name>Level Title</name>
+  </columns>
+  <row>
+    <column>0 - 2,250</column>
+    <column>1</column>
+    <column>2</column>
+    <column>Novice</column>
+  </row>
+  <row>
+    <column>2,251 - 4,750</column>
+    <column>2</column>
+    <column>3</column>
+    <column>Initiate</column>
+  </row>
+  <row>
+    <column>4,751 - 10,000</column>
+    <column>3</column>
+    <column>4</column>
+    <column>Brother</column>
+  </row>
+  <row>
+    <column>10,001 - 22,500</column>
+    <column>4</column>
+    <column>5</column>
+    <column>Disciple</column>
+  </row>
+  <row>
+    <column>22,501 - 47,500</column>
+    <column>5</column>
+    <column>6</column>
+    <column>Immaculate</column>
+  </row>
+  <row>
+    <column>47,501 - 98,000</column>
+    <column>6</column>
+    <column>7</column>
+    <column>Master</column>
+  </row>
+  <row>
+    <column>98,001 - 200,000</column>
+    <column>7</column>
+    <column>8</column>
+    <column>Superior Master</column>
+  </row>
+  <row>
+    <column>200,001 - 350,000</column>
+    <column>8</column>
+    <column>9</column>
+    <column>Master of Dragons</column>
+  </row>
+  <row>
+    <column>350,001 - 500,000</column>
+    <column>9</column>
+    <column>10</column>
+    <column>Master of the North Wind</column>
+  </row>
+  <row>
+    <column>500,001 - 700,000</column>
+    <column>10</column>
+    <column>11</column>
+    <column>Master of the West Wind</column>
+  </row>
+  <row>
+    <column>700,001 - 950,000</column>
+    <column>11</column>
+    <column>12</column>
+    <column>Master of the South Wind</column>
+  </row>
+  <row>
+    <column>950,001 - 1,250,000</column>
+    <column>12</column>
+    <column>13</column>
+    <column>Master of the East Wind</column>
+  </row>
+  <row>
+    <column>1,250,001 - 1,750,000</column>
+    <column>13</column>
+    <column>14</column>
+    <column>Master of Winter</column>
+  </row>
+  <row>
+    <column>1,750,001 - 2,250,000</column>
+    <column>14</column>
+    <column>15</column>
+    <column>Master of Autumn</column>
+  </row>
+  <row>
+    <column>2,250,001 - 2,750,000</column>
+    <column>15</column>
+    <column>16</column>
+    <column>Master of Summer</column>
+  </row>
+  <row>
+    <column>2,750,001 - 3,250,000</column>
+    <column>16</column>
+    <column>17</column>
+    <column>Master of Spring</column>
+  </row>
+  <row>
+    <column>3,250,001+</column>
+    <column>17</column>
+    <column>18</column>
+    <column>Grand Master of Flowers</column>
+  </row>
+</table>

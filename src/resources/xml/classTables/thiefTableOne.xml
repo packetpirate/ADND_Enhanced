@@ -1,0 +1,86 @@
+<table>
+  <columns>
+    <name>Experience Points</name>
+    <name>Experience Level</name>
+    <name>Accumulated Hit Dice</name>
+    <name>Level Title</name>
+  </columns>
+  <row>
+    <column>0 - 1,250</column>
+    <column>1</column>
+    <column>1</column>
+    <column>Rogue (Apprentice)</column>
+  </row>
+  <row>
+    <column>1,251 - 2,500</column>
+    <column>2</column>
+    <column>2</column>
+    <column>Footpad</column>
+  </row>
+  <row>
+    <column>2,501 - 5,000</column>
+    <column>3</column>
+    <column>3</column>
+    <column>Cutpurse</column>
+  </row>
+  <row>
+    <column>5,001 - 10,000</column>
+    <column>4</column>
+    <column>4</column>
+    <column>Robber</column>
+  </row>
+  <row>
+    <column>10,001 - 20,000</column>
+    <column>5</column>
+    <column>5</column>
+    <column>Burglar</column>
+  </row>
+  <row>
+    <column>20,001 - 42,500</column>
+    <column>6</column>
+    <column>6</column>
+    <column>Filcher</column>
+  </row>
+  <row>
+    <column>42,501 - 70,000</column>
+    <column>7</column>
+    <column>7</column>
+    <column>Sharper</column>
+  </row>
+  <row>
+    <column>70,001 - 110,000</column>
+    <column>8</column>
+    <column>8</column>
+    <column>Magsman</column>
+  </row>
+  <row>
+    <column>110,001 - 160,000</column>
+    <column>9</column>
+    <column>9</column>
+    <column>Thief</column>
+  </row>
+  <row>
+    <column>160,001 - 220,000</column>
+    <column>10</column>
+    <column>10</column>
+    <column>Master Thief</column>
+  </row>
+  <row>
+    <column>220,001 - 440,000</column>
+    <column>11</column>
+    <column>10 + 2</column>
+    <column>Master Thief (11th level)</column>
+  </row>
+  <row>
+    <column>440,001 - 660,000</column>
+    <column>12</column>
+    <column>10 + 4</column>
+    <column>Master Thief (12th level)</column>
+  </row>
+  <row>
+    <column>+220,000</column>
+    <column>13+</column>
+    <column>+2</column>
+    <column>Master Thief (nth level)</column>
+  </row>
+</table>

@@ -1,0 +1,80 @@
+<table>
+  <columns>
+    <name>Experience Points</name>
+    <name>Experience Level</name>
+    <name>Accumulated Hit Dice</name>
+    <name>Level Title</name>
+  </columns>
+  <row>
+    <column>0 - 1,500</column>
+    <column>1</column>
+    <column>1</column>
+    <column>Acolyte</column>
+  </row>
+  <row>
+    <column>1,501 - 3,000</column>
+    <column>2</column>
+    <column>2</column>
+    <column>Adept</column>
+  </row>
+  <row>
+    <column>3,001 - 6,000</column>
+    <column>3</column>
+    <column>3</column>
+    <column>Priest</column>
+  </row>
+  <row>
+    <column>6,001 - 13,000</column>
+    <column>4</column>
+    <column>4</column>
+    <column>Curate</column>
+  </row>
+  <row>
+    <column>13,001 - 27,500</column>
+    <column>5</column>
+    <column>5</column>
+    <column>Prefect</column>
+  </row>
+  <row>
+    <column>27,501 - 55,000</column>
+    <column>6</column>
+    <column>6</column>
+    <column>Canon</column>
+  </row>
+  <row>
+    <column>55,001 - 110,000</column>
+    <column>7</column>
+    <column>7</column>
+    <column>Lama</column>
+  </row>
+  <row>
+    <column>110,001 - 225,000</column>
+    <column>8</column>
+    <column>8</column>
+    <column>Patriarch</column>
+  </row>
+  <row>
+    <column>225,001 - 450,000</column>
+    <column>9</column>
+    <column>9</column>
+    <column>High Priest</column>
+  </row>
+  <row>
+    <column>450,001 - 675,000</column>
+    <column>10</column>
+    <column>9 + 2</column>
+    <column>High Priest (10th level)</column>
+  </row>
+  <row>
+    <column>675,001 - 900,000</column>
+    <column>11</column>
+    <column>9 + 4</column>
+    <column>High Priest (11th level)</column>
+  </row>
+  <row>
+    <column>+225,000</column>
+    <column>12+</column>
+    <column>+2</column>
+    <column>High Priest (nth level)</column>
+  </row>
+</table>

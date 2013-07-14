@@ -1,0 +1,80 @@
+<table>
+  <columns>
+    <name>Experience Points</name>
+    <name>Experience Level</name>
+    <name>Accumulated Hit Dice</name>
+    <name>Level Title</name>
+  </columns>
+  <row>
+    <column>0 - 2,750</column>
+    <column>1</column>
+    <column>1</column>
+    <column>Gallant</column>
+  </row>
+  <row>
+    <column>2,751 - 5,500</column>
+    <column>2</column>
+    <column>2</column>
+    <column>Keeper</column>
+  </row>
+  <row>
+    <column>5,501 - 12,000</column>
+    <column>3</column>
+    <column>3</column>
+    <column>Protector</column>
+  </row>
+  <row>
+    <column>12,001 - 24,000</column>
+    <column>4</column>
+    <column>4</column>
+    <column>Defender</column>
+  </row>
+  <row>
+    <column>24,001 - 45,000</column>
+    <column>5</column>
+    <column>5</column>
+    <column>Warder</column>
+  </row>
+  <row>
+    <column>45,001 - 95,000</column>
+    <column>6</column>
+    <column>6</column>
+    <column>Guardian</column>
+  </row>
+  <row>
+    <column>95,001 - 175,000</column>
+    <column>7</column>
+    <column>7</column>
+    <column>Chevalier</column>
+  </row>
+  <row>
+    <column>175,001 - 350,000</column>
+    <column>8</column>
+    <column>8</column>
+    <column>Justiciar</column>
+  </row>
+  <row>
+    <column>350,001 - 700,000</column>
+    <column>9</column>
+    <column>9</column>
+    <column>Paladin</column>
+  </row>
+  <row>
+    <column>700,001 - 1,050,000</column>
+    <column>10</column>
+    <column>9 + 3</column>
+    <column>Paladin (10th level)</column>
+  </row>
+  <row>
+    <column>1,050,001 - 1,400,000</column>
+    <column>11</column>
+    <column>9 + 6</column>
+    <column>Paladin (11th level)</column>
+  </row>
+  <row>
+    <column>+350,000</column>
+    <column>12+</column>
+    <column>+3</column>
+    <column>Paladin (nth level)</column>
+  </row>
+</table>

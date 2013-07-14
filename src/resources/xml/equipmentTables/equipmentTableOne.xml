@@ -1,0 +1,62 @@
+<table>
+  <columns>
+    <name>Item</name>
+    <name>Price</name>
+  </columns>
+  <row>
+    <column>Armor, Banded</column>
+    <column>90 g.p.</column>
+  </row>
+  <row>
+    <column>Armor, Chain</column>
+    <column>75 g.p.</column>
+  </row>
+  <row>
+    <column>Helmet, Great</column>
+    <column>15 g.p.</column>
+  </row>
+  <row>
+    <column>Helmet, Small</column>
+    <column>10 g.p.</column>
+  </row>
+  <row>
+    <column>Armor, Leather</column>
+    <column>5 g.p.</column>
+  </row>
+  <row>
+    <column>Armor, Padded</column>
+    <column>4 g.p.</column>
+  </row>
+  <row>
+    <column>Armor, Plate</column>
+    <column>400 g.p.</column>
+  </row>
+  <row>
+    <column>Armor, Ring</column>
+    <column>30 g.p.</column>
+  </row>
+  <row>
+    <column>Armor, Scale</column>
+    <column>45 g.p.</column>
+  </row>
+  <row>
+    <column>Shield, Large</column>
+    <column>15 g.p.</column>
+  </row>
+  <row>
+    <column>Shield, Small</column>
+    <column>10 g.p.</column>
+  </row>
+  <row>
+    <column>Shield, Small, Wooden</column>
+    <column>1 g.p.</column>
+  </row>
+  <row>
+    <column>Armor, Splinted</column>
+    <column>80 g.p.</column>
+  </row>
+  <row>
+    <column>Armor, Studded</column>
+    <column>15 g.p.</column>
+  </row>
+</table>

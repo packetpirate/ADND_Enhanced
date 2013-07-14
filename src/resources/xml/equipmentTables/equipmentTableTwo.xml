@@ -1,0 +1,214 @@
+<table>
+  <columns>
+    <name>Item</name>
+    <name>Price</name>
+  </columns>
+  <row>
+    <column>Arrow, Normal, Single</column>
+    <column>2 s.p.</column>
+  </row>
+  <row>
+    <column>Arrow, Normal, Dozen</column>
+    <column>1 g.p.</column>
+  </row>
+  <row>
+    <column>Arrow, Silver, Single</column>
+    <column>1 g.p.</column>
+  </row>
+  <row>
+    <column>Axe, Battle</column>
+    <column>5 g.p.</column>
+  </row>
+  <row>
+    <column>Axe, Hand or Throwing</column>
+    <column>1 g.p.</column>
+  </row>
+  <row>
+    <column>Bardiche</column>
+    <column>7 g.p.</column>
+  </row>
+  <row>
+    <column>Bec de Corbin</column>
+    <column>6 g.p.</column>
+  </row>
+  <row>
+    <column>Bill-Guisarme</column>
+    <column>6 g.p.</column>
+  </row>
+  <row>
+    <column>Bow, Composite, Short</column>
+    <column>75 g.p.</column>
+  </row>
+  <row>
+    <column>Bow, Composite, Long</column>
+    <column>100 g.p.</column>
+  </row>
+  <row>
+    <column>Bow, Long</column>
+    <column>60 g.p.</column>
+  </row>
+  <row>
+    <column>Bow, Short</column>
+    <column>15 g.p.</column>
+  </row>
+  <row>
+    <column>Crossbow, Heavy</column>
+    <column>20 g.p.</column>
+  </row>
+  <row>
+    <column>Crossbow, Light</column>
+    <column>12 g.p.</column>
+  </row>
+  <row>
+    <column>Dagger and Scabbard</column>
+    <column>2 g.p.</column>
+  </row>
+  <row>
+    <column>Dart</column>
+    <column>5 s.p.</column>
+  </row>
+  <row>
+    <column>Fauchard</column>
+    <column>3 g.p.</column>
+  </row>
+  <row>
+    <column>Fauchard - Fork</column>
+    <column>8 g.p.</column>
+  </row>
+  <row>
+    <column>Flail, Footman's</column>
+    <column>3 g.p.</column>
+  </row>
+  <row>
+    <column>Flail, Horseman's</column>
+    <column>8 g.p.</column>
+  </row>
+  <row>
+    <column>Fork, Military</column>
+    <column>4 g.p.</column>
+  </row>
+  <row>
+    <column>Glaive</column>
+    <column>6 g.p.</column>
+  </row>
+  <row>
+    <column>Glaive-Guisarme</column>
+    <column>10 g.p.</column>
+  </row>
+  <row>
+    <column>Guisarme</column>
+    <column>5 g.p.</column>
+  </row>
+  <row>
+    <column>Guisarme-Voulge</column>
+    <column>7 g.p.</column>
+  </row>
+  <row>
+    <column>Halberd</column>
+    <column>9 g.p.</column>
+  </row>
+  <row>
+    <column>Hammer, Lucern</column>
+    <column>7 g.p.</column>
+  </row>
+  <row>
+    <column>Hammer</column>
+    <column>1 g.p.</column>
+  </row>
+  <row>
+    <column>Javelin</column>
+    <column>10 s.p.</column>
+  </row>
+  <row>
+    <column>Lance</column>
+    <column>6 g.p.</column>
+  </row>
+  <row>
+    <column>Mace, Footman's</column>
+    <column>8 g.p.</column>
+  </row>
+  <row>
+    <column>Mace, Horseman's</column>
+    <column>4 g.p.</column>
+  </row>
+  <row>
+    <column>Morning Star</column>
+    <column>5 g.p.</column>
+  </row>
+  <row>
+    <column>Partisan</column>
+    <column>10 g.p.</column>
+  </row>
+  <row>
+    <column>Pick, Military, Footman's</column>
+    <column>8 g.p.</column>
+  </row>
+  <row>
+    <column>Pick, Military, Horseman's</column>
+    <column>5 g.p.</column>
+  </row>
+  <row>
+    <column>Pike, Awl</column>
+    <column>3 g.p.</column>
+  </row>
+  <row>
+    <column>Quarrel (or Bolt), Light, Single</column>
+    <column>1 s.p.</column>
+  </row>
+  <row>
+    <column>Quarrel (or Bolt), Heavy, Score</column>
+    <column>2 g.p.</column>
+  </row>
+  <row>
+    <column>Ranseur</column>
+    <column>4 g.p.</column>
+  </row>
+  <row>
+    <column>Scimitar</column>
+    <column>15 g.p.</column>
+  </row>
+  <row>
+    <column>Sling and Bullets, Dozen</column>
+    <column>15 s.p.</column>
+  </row>
+  <row>
+    <column>Sling Bullets, Score</column>
+    <column>10 s.p.</column>
+  </row>
+  <row>
+    <column>Spear</column>
+    <column>1 g.p.</column>
+  </row>
+  <row>
+    <column>Spetum</column>
+    <column>3 g.p.</column>
+  </row>
+  <row>
+    <column>Sword, Bastard, and Scabbard</column>
+    <column>25 g.p.</column>
+  </row>
+  <row>
+    <column>Sword, Broad, and Scabbard</column>
+    <column>10 g.p.</column>
+  </row>
+  <row>
+    <column>Sword, Long, and Scabbard</column>
+    <column>15 g.p.</column>
+  </row>
+  <row>
+    <column>Sword, Short, and Scabbard</column>
+    <column>8 g.p.</column>
+  </row>
+  <row>
+    <column>Sword, Two-Handed</column>
+    <column>30 g.p.</column>
+  </row>
+  <row>
+    <column>Trident</column>
+    <column>4 g.p.</column>
+  </row>
+  <row>
+    <column>Voulge</column>
+    <column>2 g.p.</column>
+  </row>
+</table>

@@ -1,0 +1,90 @@
+<table>
+  <columns>
+    <name>Ability Score</name>
+    <name>General Information</name>
+  </columns>
+  <row>
+    <column>3</column>
+    <column></column>
+  </row>
+  <row>
+    <column>4</column>
+    <column></column>
+  </row>
+  <row>
+    <column>5</column>
+    <column>Here or lower, the character can only be a Magic-User.</column>
+  </row>
+  <row>
+    <column>6</column>
+    <column>Minimum strength for a Gnome, Half-Orc or Halfling character.</column>
+  </row>
+  <row>
+    <column>7</column>
+    <column></column>
+  </row>
+  <row>
+    <column>8</column>
+    <column>Minimum strength for a Dwarf character.</column>
+  </row>
+  <row>
+    <column>9</column>
+    <column>Minimum strength for a Fighter character.</column>
+  </row>
+  <row>
+    <column>10</column>
+    <column></column>
+  </row>
+  <row>
+    <column>11</column>
+    <column></column>
+  </row>
+  <row>
+    <column>12</column>
+    <column>Minimum strength for an Assassin or Paladin character.</column>
+  </row>
+  <row>
+    <column>13</column>
+    <column>Minimum strength for a Ranger character.</column>
+  </row>
+  <row>
+    <column>14</column>
+    <column>Maximum strength possible for a female Halfling character.</column>
+  </row>
+  <row>
+    <column>15</column>
+    <column>Maximum strength possible for a female Gnome character. Minimum strength for a Monk character.</column>
+  </row>
+  <row>
+    <column>16</column>
+    <column>Maximum strength possible for a female Elf character.</column>
+  </row>
+  <row>
+    <column>17</column>
+    <column>Maximum strength possible for a female Dwarf or female Half-Elf or male Halfling character.</column>
+  </row>
+  <row>
+    <column>18</column>
+    <column>Maximum strength possible for all non-Fighter characters.</column>
+  </row>
+  <row>
+    <column>18/01-50</column>
+    <column>Maximum strength possible for all female Human or male Gnome characters.</column>
+  </row>
+  <row>
+    <column>18/51-75</column>
+    <column>Maximum strength possible for a male Elf or female Half-Orc character.</column>
+  </row>
+  <row>
+    <column>18/76-90</column>
+    <column>Maximum strength possible for a male Half-Elf character.</column>
+  </row>
+  <row>
+    <column>18/91-99</column>
+    <column>Maximum strength possible for a male Dwarf or male Half-Orc character.</column>
+  </row>
+  <row>
+    <column>18/00</column>
+    <column>Maximum Human strength.</column>
+  </row>
+</table>

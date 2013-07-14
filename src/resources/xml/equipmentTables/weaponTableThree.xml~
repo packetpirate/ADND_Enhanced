@@ -1,0 +1,32 @@
+<table>
+  <columns>
+    <name>Weapon Type</name>
+    <name>Length</name>
+    <name>Space Required</name>
+    <name>Speed Factor</name>
+    <name>AC Adjust (2)</name>
+    <name>AC Adjust (3)</name>
+    <name>AC Adjust (4)</name>
+    <name>AC Adjust (5)</name>
+    <name>AC Adjust (6)</name>
+    <name>AC Adjust (7)</name>
+    <name>AC Adjust (8)</name>
+    <name>AC Adjust (9)</name>
+    <name>AC Adjust (10)</name>
+  </columns>
+  <row>
+    <column></column>
+    <column></column>
+    <column></column>
+    <column></column>
+    <column></column>
+    <column></column>
+    <column></column>
+    <column></column>
+    <column></column>
+    <column></column>
+    <column></column>
+    <column></column>
+    <column></column>
+  </row>
+</table>
