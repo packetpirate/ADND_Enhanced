@@ -1,0 +1,65 @@
+<table>
+  <columns>
+    <name>Number</name>
+    <name>4th Level</name>
+    <name>5th Level</name>
+    <name>6th Level</name>
+    <name>7th Level</name>
+  </columns>
+  <row>
+    <column>1</column>
+    <column>Confusion</column>
+    <column>Chaos</column>
+    <column>Conjure Animals</column>
+    <column>Alter Reality</column>
+  </row>
+  <row>
+    <column>2</column>
+    <column>Dispel Exhaustion</column>
+    <column>Demi-Shadow Monsters</column>
+    <column>Demi-Shadow Magic</column>
+    <column>Astral Spell</column>
+  </row>
+  <row>
+    <column>3</column>
+    <column>Emotion</column>
+    <column>Major Creation</column>
+    <column>Mass Suggestion</column>
+    <column>Prismatic Spray</column>
+  </row>
+  <row>
+    <column>4</column>
+    <column>Improved Invisibility</column>
+    <column>Maze</column>
+    <column>Permanent Illusion</column>
+    <column>Prismatic Wall</column>
+  </row>
+  <row>
+    <column>5</column>
+    <column>Massmorph</column>
+    <column>Projected Image</column>
+    <column>Programmed Illusion</column>
+    <column>Vision</column>
+  </row>
+  <row>
+    <column>6</column>
+    <column>Minor Creation</column>
+    <column>Shadow Door</column>
+    <column>Shades</column>
+    <column>First-Level Magic-User Spells</column>
+  </row>
+  <row>
+    <column>7</column>
+    <column>Phantasmal Killer</column>
+    <column>Shadow Magic</column>
+    <column>True Sight</column>
+    <column>-</column>
+  </row>
+  <row>
+    <column>8</column>
+    <column>Shadow Monsters</column>
+    <column>Summon Shadow</column>
+    <column>Veil</column>
+    <column>-</column>
+  </row>
+</table>

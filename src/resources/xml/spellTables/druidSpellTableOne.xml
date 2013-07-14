@@ -1,0 +1,93 @@
+<table>
+  <columns>
+    <name>Number</name>
+    <name>1st Level</name>
+    <name>2nd Level</name>
+    <name>3rd Level</name>
+    <name>4th Level</name>
+  </columns>
+  <row>
+    <column>1</column>
+    <column>Animal Friendship</column>
+    <column>Barkskin</column>
+    <column>Call Lightning</column>
+    <column>Animal Summoning I</column>
+  </row>
+  <row>
+    <column>2</column>
+    <column>Detect Magic</column>
+    <column>Charm Person or Mammal</column>
+    <column>Cure Disease</column>
+    <column>Call Woodland Beings</column>
+  </row>
+  <row>
+    <column>3</column>
+    <column>Detect Snares and Pits</column>
+    <column>Create Water</column>
+    <column>Hold Animal</column>
+    <column>Control Temperature, 10' Radius</column>
+  </row>
+  <row>
+    <column>4</column>
+    <column>Entangle</column>
+    <column>Cure Light Wounds</column>
+    <column>Neutralize Poison</column>
+    <column>Cure Serious Wounds</column>
+  </row>
+  <row>
+    <column>5</column>
+    <column>Faerie Fire</column>
+    <column>Feign Death</column>
+    <column>Plant Growth</column>
+    <column>Dispel Magic</column>
+  </row>
+  <row>
+    <column>6</column>
+    <column>Invisibility to Animals</column>
+    <column>Fire Trap</column>
+    <column>Protection from Fire</column>
+    <column>Hallucinatory Forest</column>
+  </row>
+  <row>
+    <column>7</column>
+    <column>Locate Animals</column>
+    <column>Heat Metal</column>
+    <column>Pyrotechnics</column>
+    <column>Hold Plant</column>
+  </row>
+  <row>
+    <column>8</column>
+    <column>Pass Without Trace</column>
+    <column>Locate Plants</column>
+    <column>Snare</column>
+    <column>Plant Door</column>
+  </row>
+  <row>
+    <column>9</column>
+    <column>Predict Weather</column>
+    <column>Obscurement</column>
+    <column>Stone Shape</column>
+    <column>Produce Fire</column>
+  </row>
+  <row>
+    <column>10</column>
+    <column>Purify Water</column>
+    <column>Produce Flame</column>
+    <column>Summon Insects</column>
+    <column>Protection from Lightning</column>
+  </row>
+  <row>
+    <column>11</column>
+    <column>Shillelagh</column>
+    <column>Trip</column>
+    <column>Tree</column>
+    <column>Repel Insects</column>
+  </row>
+  <row>
+    <column>12</column>
+    <column>Speak With Animals</column>
+    <column>Warp Wood</column>
+    <column>Water Breathing</column>
+    <column>Speak With Plants</column>
+  </row>
+</table>

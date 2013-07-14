@@ -69,4 +69,15 @@ public class GlobalFileList {
     public static final String WEAPON_TBL_3 = "/resources/xml/equipmentTables/weaponTableThree.xml";
     public static final String WEAPON_TBL_4 = "/resources/xml/equipmentTables/weaponTableFour.xml";
     // -------------------------------------------------------------------------------------------------
+    
+    // Spell Tables ------------------------------------------------------------------------------------
+    public static final String CLERIC_SPL_TBL_1 = "/resources/xml/spellTables/clericSpellTableOne.xml";
+    public static final String CLERIC_SPL_TBL_2 = "/resources/xml/spellTables/clericSpellTableTwo.xml";
+    public static final String DRUID_SPL_TBL_1 = "/resources/xml/spellTables/druidSpellTableOne.xml";
+    public static final String DRUID_SPL_TBL_2 = "/resources/xml/spellTables/druidSpellTableTwo.xml";
+    public static final String MAGIC_USER_SPL_TBL_1 = "/resources/xml/spellTables/magicUserSpellTableOne.xml";
+    public static final String MAGIC_USER_SPL_TBL_2 = "/resources/xml/spellTables/magicUserSpellTableTwo.xml";
+    public static final String ILLUSIONIST_SPL_TBL_1 = "/resources/xml/spellTables/illusionistSpellTableOne.xml";
+    public static final String ILLUSIONIST_SPL_TBL_2 = "/resources/xml/spellTables/illusionistSpellTableTwo.xml";
+    // -------------------------------------------------------------------------------------------------
 }

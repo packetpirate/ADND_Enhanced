@@ -1,0 +1,68 @@
+<table>
+  <columns>
+    <name>Number</name>
+    <name>5th Level</name>
+    <name>6th Level</name>
+    <name>7th Level</name>
+  </columns>
+  <row>
+    <column>1</column>
+    <column>Animal Growth</column>
+    <column>Animal Summoning III</column>
+    <column>Animate Rock</column>
+  </row>
+  <row>
+    <column>2</column>
+    <column>Animal Summoning II</column>
+    <column>Anti-Animal Shell</column>
+    <column>Chariot of Sustarre</column>
+  </row>
+  <row>
+    <column>3</column>
+    <column>Anti-Plant Shell</column>
+    <column>Conjure Fire ELemental</column>
+    <column>Confusion</column>
+  </row>
+  <row>
+    <column>4</column>
+    <column>Commune With Nature</column>
+    <column>Cure Critical Wounds</column>
+    <column>Conjure Earth Elemental</column>
+  </row>
+  <row>
+    <column>5</column>
+    <column>Control Winds</column>
+    <column>Feeblemind</column>
+    <column>Control Weather</column>
+  </row>
+  <row>
+    <column>6</column>
+    <column>Insect Plague</column>
+    <column>Fire Seeds</column>
+    <column>Creeping Doom</column>
+  </row>
+  <row>
+    <column>7</column>
+    <column>Pass Plant</column>
+    <column>Transport via Plants</column>
+    <column>Finger of Death</column>
+  </row>
+  <row>
+    <column>8</column>
+    <column>Sticks to Snakes</column>
+    <column>Turn Wood</column>
+    <column>Fire Storm</column>
+  </row>
+  <row>
+    <column>9</column>
+    <column>Transmute Rock to Mud</column>
+    <column>Wall of Thorns</column>
+    <column>Reincarnate</column>
+  </row>
+  <row>
+    <column>10</column>
+    <column>Wall of Fire</column>
+    <column>Weather Summoning</column>
+    <column>Transmute Metal to Wood</column>
+  </row>
+</table>

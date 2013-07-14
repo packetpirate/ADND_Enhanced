@@ -83,6 +83,11 @@ public class MainWindow extends javax.swing.JPanel implements java.awt.event.Act
             spellTablesMenuItem.addActionListener(this);
             tablesMenu.add(spellTablesMenuItem);
             
+            JMenuItem miscTablesMenuItem = new JMenuItem("Miscellaneous Tables");
+            miscTablesMenuItem.getAccessibleContext().setAccessibleDescription("Tables containing miscellaneous information that don't belong in the other categories.");
+            miscTablesMenuItem.addActionListener(this);
+            tablesMenu.add(miscTablesMenuItem);
+            
             JMenuItem aboutMenuItem = new JMenuItem("About");
             aboutMenuItem.getAccessibleContext().setAccessibleDescription("General information about this program.");
             aboutMenuItem.addActionListener(this);
@@ -156,7 +161,14 @@ public class MainWindow extends javax.swing.JPanel implements java.awt.event.Act
             createWindow("Equipment Tables", GlobalFileList.EQUIP_TBL_1, listNames);
         } else if("Spell Tables".equals(e.getActionCommand())) {
             // Handle creating the spell tables window.
-            javax.swing.JOptionPane.showMessageDialog(this, "Spell Tables");
+            String [][] listNames = {{"Cleric Spells I", GlobalFileList.CLERIC_SPL_TBL_1}, {"Cleric Spells II", GlobalFileList.CLERIC_SPL_TBL_2},
+                                     {"Druid Spells I", GlobalFileList.DRUID_SPL_TBL_1}, {"Druid Spells II", GlobalFileList.DRUID_SPL_TBL_2},
+                                     {"Magic-User Spells I", GlobalFileList.MAGIC_USER_SPL_TBL_1}, {"Magic-User Spells II", GlobalFileList.MAGIC_USER_SPL_TBL_2},
+                                     {"Illusionist Spells I", GlobalFileList.ILLUSIONIST_SPL_TBL_1}, {"Illusionist Spells II", GlobalFileList.ILLUSIONIST_SPL_TBL_2}};
+            createWindow("Spell Tables", GlobalFileList.CLERIC_SPL_TBL_1, listNames);
+        } else if("Miscellaneous Tables".equals(e.getActionCommand())) {
+            // Handle creating the miscellaneous tables window.
+            javax.swing.JOptionPane.showMessageDialog(this, "Miscellaneous Tables will go here.", "Miscellaneous Tables", javax.swing.JOptionPane.INFORMATION_MESSAGE);
         } else if("About".equals(e.getActionCommand())) {
             // Handle creating the About window.
             javax.swing.JOptionPane.showMessageDialog(this, 

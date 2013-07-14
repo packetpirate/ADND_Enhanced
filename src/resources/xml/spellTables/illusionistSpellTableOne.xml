@@ -1,0 +1,80 @@
+<table>
+  <columns>
+    <name>Number</name>
+    <name>1st Level</name>
+    <name>2nd Level</name>
+    <name>3rd Level</name>
+  </columns>
+  <row>
+    <column>1</column>
+    <column>Audible Glamer</column>
+    <column>Blindness</column>
+    <column>Continual Darkness</column>
+  </row>
+  <row>
+    <column>2</column>
+    <column>Change Self</column>
+    <column>Blur</column>
+    <column>Continual Light</column>
+  </row>
+  <row>
+    <column>3</column>
+    <column>Color Spray</column>
+    <column>Deafness</column>
+    <column>Dispel Illusion</column>
+  </row>
+  <row>
+    <column>4</column>
+    <column>Dancing Lights</column>
+    <column>Detect Magic</column>
+    <column>Fear</column>
+  </row>
+  <row>
+    <column>5</column>
+    <column>Darkness</column>
+    <column>Fog Cloud</column>
+    <column>Hallucinatory Terrain</column>
+  </row>
+  <row>
+    <column>6</column>
+    <column>Detect Illusion</column>
+    <column>Hypnotic Pattern</column>
+    <column>Illusionary Script</column>
+  </row>
+  <row>
+    <column>7</column>
+    <column>Detect Invisibility</column>
+    <column>Improved Phantasmal Force</column>
+    <column>Invisibility, 10' Radius</column>
+  </row>
+  <row>
+    <column>8</column>
+    <column>Gaze Reflection</column>
+    <column>Invisibility</column>
+    <column>Non-Detection</column>
+  </row>
+  <row>
+    <column>9</column>
+    <column>Hypnotism</column>
+    <column>Magic Mouth</column>
+    <column>Paralyzation</column>
+  </row>
+  <row>
+    <column>10</column>
+    <column>Light</column>
+    <column>Mirror Image</column>
+    <column>Rope Trick</column>
+  </row>
+  <row>
+    <column>11</column>
+    <column>Phantasmal Force</column>
+    <column>Misdirection</column>
+    <column>Spectral Force</column>
+  </row>
+  <row>
+    <column>12</column>
+    <column>Wall of Fog</column>
+    <column>Ventriloquism</column>
+    <column>Suggestion</column>
+  </row>
+</table>

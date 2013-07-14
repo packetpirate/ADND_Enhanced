@@ -1,0 +1,79 @@
+<table>
+  <columns>
+    <name>Number</name>
+    <name>4th Level</name>
+    <name>5th Level</name>
+    <name>6th Level</name>
+    <name>7th Level</name>
+  </columns>
+  <row>
+    <column>1</column>
+    <column>Cure Serious Wounds</column>
+    <column>Atonement</column>
+    <column>Aerial Servant</column>
+    <column>Astral Spell</column>
+  </row>
+  <row>
+    <column>2</column>
+    <column>Detect Lie</column>
+    <column>Commune</column>
+    <column>Animate Object</column>
+    <column>Control Weather</column>
+  </row>
+  <row>
+    <column>3</column>
+    <column>Divination</column>
+    <column>Cure Critical Wounds</column>
+    <column>Blade Barrier</column>
+    <column>Earthquake</column>
+  </row>
+  <row>
+    <column>4</column>
+    <column>Exorcise</column>
+    <column>Dispel Evil</column>
+    <column>Conjure Animals</column>
+    <column>Gate</column>
+  </row>
+  <row>
+    <column>5</column>
+    <column>Lower Water</column>
+    <column>Flame Strike</column>
+    <column>Find the Path</column>
+    <column>Holy (Unholy) Ward</column>
+  </row>
+  <row>
+    <column>6</column>
+    <column>Neutralize Poison</column>
+    <column>Insect Plague</column>
+    <column>Heal</column>
+    <column>Regenerate</column>
+  </row>
+  <row>
+    <column>7</column>
+    <column>Protection from Evil, 10' Radius</column>
+    <column>Plane Shift</column>
+    <column>Part Water</column>
+    <column>Restoration</column>
+  </row>
+  <row>
+    <column>8</column>
+    <column>Speak with Plants</column>
+    <column>Quest</column>
+    <column>Speak with Monsters</column>
+    <column>Resurrection</column>
+  </row>
+  <row>
+    <column>9</column>
+    <column>Sticks to Snakes</column>
+    <column>Raise Dead</column>
+    <column>Stone Tell</column>
+    <column>Symbol</column>
+  </row>
+  <row>
+    <column>10</column>
+    <column>Tongues</column>
+    <column>True Seeing</column>
+    <column>Word of Recall</column>
+    <column>Wind Walk</column>
+  </row>
+</table>

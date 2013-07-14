@@ -1,0 +1,250 @@
+<table>
+  <columns>
+    <name>Number</name>
+    <name>1st Level</name>
+    <name>2nd Level</name>
+    <name>3rd Level</name>
+    <name>4th Level</name>
+    <name>5th Level</name>
+  </columns>
+  <row>
+    <column>1</column>
+    <column>Affect Normal Fires</column>
+    <column>Audible Glamer</column>
+    <column>Blink</column>
+    <column>Charm Monster</column>
+    <column>Airy Water</column>
+  </row>
+  <row>
+    <column>2</column>
+    <column>Burning Hands</column>
+    <column>Continual Light</column>
+    <column>Clairaudience</column>
+    <column>Confusion</column>
+    <column>Animal Growth</column>
+  </row>
+  <row>
+    <column>3</column>
+    <column>Charm Person</column>
+    <column>Darkness, 15' Radius</column>
+    <column>Clairvoyance</column>
+    <column>Dig</column>
+    <column>Animate Dead</column>
+  </row>
+  <row>
+    <column>4</column>
+    <column>Comprehend Languages</column>
+    <column>Detect Evil</column>
+    <column>Dispel Magic</column>
+    <column>Dimension Door</column>
+    <column>Bigby's Interposing Hand</column>
+  </row>
+  <row>
+    <column>5</column>
+    <column>Dancing Lights</column>
+    <column>Detect Invisibility</column>
+    <column>Explosive Runes</column>
+    <column>Enchanted Weapon</column>
+    <column>Cloudkill</column>
+  </row>
+  <row>
+    <column>6</column>
+    <column>Detect Magic</column>
+    <column>ESP</column>
+    <column>Feign Death</column>
+    <column>Extension I</column>
+    <column>Conjure Elemental</column>
+  </row>
+  <row>
+    <column>7</column>
+    <column>Enlarge</column>
+    <column>Fool's Gold</column>
+    <column>Fireball</column>
+    <column>Fear</column>
+    <column>Cone of Cold</column>
+  </row>
+  <row>
+    <column>8</column>
+    <column>Erase</column>
+    <column>Forget</column>
+    <column>Flame Arrow</column>
+    <column>Fire Charm</column>
+    <column>Contact Other Plane</column>
+  </row>
+  <row>
+    <column>9</column>
+    <column>Feather Fall</column>
+    <column>Invisibility</column>
+    <column>Fly</column>
+    <column>Fire Shield</column>
+    <column>Distance Distortion</column>
+  </row>
+  <row>
+    <column>10</column>
+    <column>Find Familiar</column>
+    <column>Knock</column>
+    <column>Gust of Wind</column>
+    <column>Fire Trap</column>
+    <column>Extension II</column>
+  </row>
+  <row>
+    <column>11</column>
+    <column>Friends</column>
+    <column>Leomund's Trap</column>
+    <column>Haste</column>
+    <column>Fumble</column>
+    <column>Feeblemind</column>
+  </row>
+  <row>
+    <column>12</column>
+    <column>Hold Portal</column>
+    <column>Levitate</column>
+    <column>Hold Person</column>
+    <column>Hallucinatory Terrain</column>
+    <column>Hold Monster</column>
+  </row>
+  <row>
+    <column>13</column>
+    <column>Identify</column>
+    <column>Locate Object</column>
+    <column>Infravision</column>
+    <column>Ice Storm</column>
+    <column>Leomund's Secret Chest</column>
+  </row>
+  <row>
+    <column>14</column>
+    <column>Jump</column>
+    <column>Magic Mouth</column>
+    <column>Invisibility, 10' Radius</column>
+    <column>Massmorph</column>
+    <column>Magic Jar</column>
+  </row>
+  <row>
+    <column>15</column>
+    <column>Light</column>
+    <column>Mirror Image</column>
+    <column>Leomund's Tiny Hut</column>
+    <column>Minor Globe of Invulnerability</column>
+    <column>Monster Summoning III</column>
+  </row>
+  <row>
+    <column>16</column>
+    <column>Magic Missile</column>
+    <column>Pyrotechnics</column>
+    <column>Lightning Bolt</column>
+    <column>Monster Summoning II</column>
+    <column>Mordekainen's Faithful Hound</column>
+  </row>
+  <row>
+    <column>17</column>
+    <column>Mending</column>
+    <column>Ray of Enfeeblement</column>
+    <column>Monster Summoning I</column>
+    <column>Plant Growth</column>
+    <column>Passwall</column>
+  </row>
+  <row>
+    <column>18</column>
+    <column>Message</column>
+    <column>Rope Trick</column>
+    <column>Phantasmal Force</column>
+    <column>Polymorph Other</column>
+    <column>Stone Shape</column>
+  </row>
+  <row>
+    <column>19</column>
+    <column>Nystul's Magic Aura</column>
+    <column>Scare</column>
+    <column>Protection From Evil, 10' Radius</column>
+    <column>Polymorph Self</column>
+    <column>Telekinesis</column>
+  </row>
+  <row>
+    <column>20</column>
+    <column>Protection From Evil</column>
+    <column>Shatter</column>
+    <column>Protection From Normal Missiles</column>
+    <column>Rary's Mnemonic Enhancer</column>
+    <column>Teleport</column>
+  </row>
+  <row>
+    <column>21</column>
+    <column>Push</column>
+    <column>Stinking Cloud</column>
+    <column>Slow</column>
+    <column>Remove Curse</column>
+    <column>Transmute Rock to Mud</column>
+  </row>
+  <row>
+    <column>22</column>
+    <column>Read Magic</column>
+    <column>Strength</column>
+    <column>Suggestion</column>
+    <column>Wall of Fire</column>
+    <column>Wall of Force</column>
+  </row>
+  <row>
+    <column>23</column>
+    <column>Shield</column>
+    <column>Web</column>
+    <column>Tongues</column>
+    <column>Wall of Ice</column>
+    <column>Wall of Iron</column>
+  </row>
+  <row>
+    <column>24</column>
+    <column>Shocking Grasp</column>
+    <column>Wizard Lock</column>
+    <column>Water Breathing</column>
+    <column>Wizard Eye</column>
+    <column>Wall of Stone</column>
+  </row>
+  <row>
+    <column>25</column>
+    <column>Sleep</column>
+    <column>-</column>
+    <column>-</column>
+    <column>-</column>
+    <column>-</column>
+  </row>
+  <row>
+    <column>26</column>
+    <column>Spider Climb</column>
+    <column>-</column>
+    <column>-</column>
+    <column>-</column>
+    <column>-</column>
+  </row>
+  <row>
+    <column>27</column>
+    <column>Tenser's Floating Disc</column>
+    <column>-</column>
+    <column>-</column>
+    <column>-</column>
+    <column>-</column>
+  </row>
+  <row>
+    <column>28</column>
+    <column>Unseen Servant</column>
+    <column>-</column>
+    <column>-</column>
+    <column>-</column>
+    <column>-</column>
+  </row>
+  <row>
+    <column>29</column>
+    <column>Ventriloquism</column>
+    <column>-</column>
+    <column>-</column>
+    <column>-</column>
+    <column>-</column>
+  </row>
+  <row>
+    <column>30</column>
+    <column>Write</column>
+    <column>-</column>
+    <column>-</column>
+    <column>-</column>
+    <column>-</column>
+  </row>
+</table>

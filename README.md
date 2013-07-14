@@ -12,7 +12,7 @@
 
 Author: Darin Beaudreau
 
-Version: 0.1.75
+Version: 0.2
 
 AD&D Enhanced is a framework for the Advanced Dungeons & Dragons tabletop
 roleplaying game. The purpose of this program is to provide a medium for
@@ -23,11 +23,10 @@ AD&D, as well as lookup tables for information, such as equipment tables
 and the infamous THAC0.
 
 CHANGES:
- - Added weapon information tables.
+ - Added spell tables.
 
 TODO:
  - Add XML files containing the data for the remaining tables.
- - Add Miscellaneous category for other tables.
  - Work on Character class to keep track of character information,
    such as inventory and stats.
  - Add functionality to Character menu.

@@ -1,0 +1,177 @@
+<table>
+  <columns>
+    <name>Number</name>
+    <name>6th Level</name>
+    <name>7th Level</name>
+    <name>8th Level</name>
+    <name>9th Level</name>
+  </columns>
+  <row>
+    <column>1</column>
+    <column>Anti-Magic Shell</column>
+    <column>Bigby's Grasping Hand</column>
+    <column>Antipathy/Sympathy</column>
+    <column>Astral Spell</column>
+  </row>
+  <row>
+    <column>2</column>
+    <column>Bigby's Forceful Hand</column>
+    <column>Cacodemon</column>
+    <column>Bigby's Clenched Fist</column>
+    <column>Bigby's Crushing Hand</column>
+  </row>
+  <row>
+    <column>3</column>
+    <column>Control Weather</column>
+    <column>Charm Plants</column>
+    <column>Clone</column>
+    <column>Gate</column>
+  </row>
+  <row>
+    <column>4</column>
+    <column>Death Spell</column>
+    <column>Delayed Blast Fireball</column>
+    <column>Glassteel</column>
+    <column>Imprisonment</column>
+  </row>
+  <row>
+    <column>5</column>
+    <column>Disintegrate</column>
+    <column>Drawmij's Instant Summons</column>
+    <column>Incendiary Cloud</column>
+    <column>Meteor Swarm</column>
+  </row>
+  <row>
+    <column>6</column>
+    <column>Enchant an Item</column>
+    <column>Duo-Dimension</column>
+    <column>Mass Charm</column>
+    <column>Monster Summoning VII</column>
+  </row>
+  <row>
+    <column>7</column>
+    <column>Extension III</column>
+    <column>Limited Wish</column>
+    <column>Maze</column>
+    <column>Power Word, Kill</column>
+  </row>
+  <row>
+    <column>8</column>
+    <column>Geas</column>
+    <column>Mass Invisibility</column>
+    <column>Mind Blank</column>
+    <column>Prismatic Sphere</column>
+  </row>
+  <row>
+    <column>9</column>
+    <column>Glassee</column>
+    <column>Monster Summoning V</column>
+    <column>Monster Summoning VI</column>
+    <column>Shape Change</column>
+  </row>
+  <row>
+    <column>10</column>
+    <column>Globe of Invulnerability</column>
+    <column>Mordekainen's Sword</column>
+    <column>Otto's Irresistible Dance</column>
+    <column>Temporal Stasis</column>
+  </row>
+  <row>
+    <column>11</column>
+    <column>Guards and Wards</column>
+    <column>Phase Door</column>
+    <column>Permanency</column>
+    <column>Time Stop</column>
+  </row>
+  <row>
+    <column>12</column>
+    <column>Invisible Stalker</column>
+    <column>Power Word, Stun</column>
+    <column>Polymorph Any Object</column>
+    <column>Wish</column>
+  </row>
+  <row>
+    <column>13</column>
+    <column>Legend Lore</column>
+    <column>Reverse Gravity</column>
+    <column>Power Word, Blind</column>
+    <column>-</column>
+  </row>
+  <row>
+    <column>14</column>
+    <column>Lower Water</column>
+    <column>Simulacrum</column>
+    <column>Serten's Spell Immunity</column>
+    <column>-</column>
+  </row>
+  <row>
+    <column>15</column>
+    <column>Monster Summoning IV</column>
+    <column>Statue</column>
+    <column>Symbol</column>
+    <column>-</column>
+  </row>
+  <row>
+    <column>16</column>
+    <column>Move Earth</column>
+    <column>Vanish</column>
+    <column>Trap the Soul</column>
+    <column>-</column>
+  </row>
+  <row>
+    <column>17</column>
+    <column>Otiluke's Freezing Sphere</column>
+    <column>-</column>
+    <column>-</column>
+    <column>-</column>
+  </row>
+  <row>
+    <column>18</column>
+    <column>Part Water</column>
+    <column>-</column>
+    <column>-</column>
+    <column>-</column>
+  </row>
+  <row>
+    <column>19</column>
+    <column>Project Image</column>
+    <column>-</column>
+    <column>-</column>
+    <column>-</column>
+  </row>
+  <row>
+    <column>20</column>
+    <column>Reincarnation</column>
+    <column>-</column>
+    <column>-</column>
+    <column>-</column>
+  </row>
+  <row>
+    <column>21</column>
+    <column>Repulsion</column>
+    <column>-</column>
+    <column>-</column>
+    <column>-</column>
+  </row>
+  <row>
+    <column>22</column>
+    <column>Spiritwrack</column>
+    <column>-</column>
+    <column>-</column>
+    <column>-</column>
+  </row>
+  <row>
+    <column>23</column>
+    <column>Stone to Flesh</column>
+    <column>-</column>
+    <column>-</column>
+    <column>-</column>
+  </row>
+  <row>
+    <column>24</column>
+    <column>Tenser's Transformation</column>
+    <column>-</column>
+    <column>-</column>
+    <column>-</column>
+  </row>
+</table>

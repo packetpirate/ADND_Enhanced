@@ -1,0 +1,80 @@
+<table>
+  <columns>
+    <name>Number</name>
+    <name>1st Level</name>
+    <name>2nd Level</name>
+    <name>3rd Level</name>
+  </columns>
+  <row>
+    <column>1</column>
+    <column>Bless</column>
+    <column>Augury</column>
+    <column>Animate Dead</column>
+  </row>
+  <row>
+    <column>2</column>
+    <column>Command</column>
+    <column>Chant</column>
+    <column>Continual Light</column>
+  </row>
+  <row>
+    <column>3</column>
+    <column>Create Water</column>
+    <column>Detect Charm</column>
+    <column>Create Food and Water</column>
+  </row>
+  <row>
+    <column>4</column>
+    <column>Cure Light Wounds</column>
+    <column>Find Traps</column>
+    <column>Cure Blindness</column>
+  </row>
+  <row>
+    <column>5</column>
+    <column>Detect Evil</column>
+    <column>Hold Person</column>
+    <column>Cure Disease</column>
+  </row>
+  <row>
+    <column>6</column>
+    <column>Detect Magic</column>
+    <column>Know Alignment</column>
+    <column>Dispel Magic</column>
+  </row>
+  <row>
+    <column>7</column>
+    <column>Light</column>
+    <column>Resist Fire</column>
+    <column>Feign Death</column>
+  </row>
+  <row>
+    <column>8</column>
+    <column>Protection from Evil</column>
+    <column>Silence, 15' Radius</column>
+    <column>Glyph of Warding</column>
+  </row>
+  <row>
+    <column>9</column>
+    <column>Purify Food and Drink</column>
+    <column>Slow Poison</column>
+    <column>Locate Object</column>
+  </row>
+  <row>
+    <column>10</column>
+    <column>Remove Fear</column>
+    <column>Snake Charm</column>
+    <column>Prayer</column>
+  </row>
+  <row>
+    <column>11</column>
+    <column>Resist Cold</column>
+    <column>Speak with Animals</column>
+    <column>Remove Curse</column>
+  </row>
+  <row>
+    <column>12</column>
+    <column>Sanctuary</column>
+    <column>Spiritual Hammer</column>
+    <column>Speak With Dead</column>
+  </row>
+</table>
