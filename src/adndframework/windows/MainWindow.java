@@ -2,7 +2,6 @@ package adndframework.windows;
 
 import adndframework.globals.GlobalConstants;
 import adndframework.globals.GlobalFileList;
-import adndframework.windows.tools.InformationTable;
 import java.awt.Graphics;
 import java.awt.Graphics2D;
 import java.awt.event.ActionEvent;
