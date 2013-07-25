@@ -15,13 +15,13 @@ public class Framework {
     }
     
     public java.awt.image.BufferedImage loadImage(String filename) {
-        java.io.File f = new java.io.File(getClass().getResource(filename).getFile());
-        if(f != null) {
+        java.net.URL u = getClass().getResource(filename);
+        if(u != null) {
             try {
-                java.awt.image.BufferedImage image = ImageIO.read(f);
+                java.awt.image.BufferedImage image = ImageIO.read(u);
                 return image;
             } catch(java.io.IOException io) {
-                System.out.println("Error reading file: " + f.getName());
+                System.out.println("Error reading file: " + u.getFile().toString());
             }
         }
         return null;

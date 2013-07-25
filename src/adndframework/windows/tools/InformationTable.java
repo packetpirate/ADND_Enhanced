@@ -25,13 +25,13 @@ public class InformationTable {
     
     private void createTable(String filename) {
         try {
-            File f = new File(getClass().getResource(filename).getFile());
+            java.net.URL u = getClass().getResource(filename);
             
-            if(f != null) {
+            if(u != null) {
                 // Create the document builder used for parsing the XML file.
                 DocumentBuilderFactory dbf = DocumentBuilderFactory.newInstance();
                 DocumentBuilder db = dbf.newDocumentBuilder();
-                Document doc = db.parse(f);
+                Document doc = db.parse(u.getFile());
                 doc.getDocumentElement().normalize();
                 
                 {
