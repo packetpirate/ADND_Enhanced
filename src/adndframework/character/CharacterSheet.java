@@ -2,6 +2,7 @@ package adndframework.character;
 
 import adndframework.character.components.AbilityScores;
 import adndframework.character.components.CharacterDefenses;
+import adndframework.character.components.CharacterDescription;
 import adndframework.character.components.CharacterExperience;
 import adndframework.character.components.CharacterRace;
 import adndframework.framework.Framework;
@@ -14,8 +15,7 @@ import adndframework.framework.Framework;
  */
 public class CharacterSheet {
     // Basic Character Information
-    private String characterName = "";
-    private String characterAlignment = "";
+    private CharacterDescription description = null;
     private CharacterRace characterRace = null;
     private String characterClass = "";
     private CharacterExperience characterExperience = null;
@@ -37,10 +37,7 @@ public class CharacterSheet {
     }
     
     // Getters and Setters
-    public String getCharacterName() { return this.characterName; }
-    public void setCharacterName(String cname) { this.characterName = cname; }
-    public String getCharacterAlignment() { return this.characterAlignment; }
-    public void setCharacterAlignment(String calign) { this.characterAlignment = calign; }
+    public CharacterDescription getCharacterDescription() { return this.description; }
     public CharacterRace getCharacterRace() { return this.characterRace; }
     public void setCharacterRace(String raceName, int [] mods) { this.characterRace = new CharacterRace(raceName, mods); }
     public String getCharacterClass() { return this.characterClass; }
