@@ -4,6 +4,7 @@ import adndframework.character.components.AbilityScores;
 import adndframework.character.components.CharacterDefenses;
 import adndframework.character.components.CharacterDescription;
 import adndframework.character.components.CharacterExperience;
+import adndframework.character.components.CharacterMovement;
 import adndframework.character.components.CharacterRace;
 import adndframework.framework.Framework;
 
@@ -26,6 +27,9 @@ public class CharacterSheet {
     // Defense Information
     private CharacterDefenses defenses = null;
     
+    // Miscellaneous Information
+    private CharacterMovement movement = null;
+    
     public CharacterSheet() {
         this.characterRace = new CharacterRace("Human", new int[]{0, 0, 0, 0, 0, 0});
         this.characterExperience = new CharacterExperience(1, 0, 2000);
@@ -34,6 +38,8 @@ public class CharacterSheet {
         this.scores.modifyValues(this.characterRace.getScoreMods());
         
         this.defenses = new CharacterDefenses();
+        
+        this.movement = new CharacterMovement(0);
     }
     
     // Getters and Setters
